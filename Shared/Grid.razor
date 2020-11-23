@@ -1,0 +1,221 @@
+﻿@inherits GridBase
+@using MatBlazor;
+@using BlazorGrid.GridClasses;
+@inject HttpClient HttpClient
+
+
+@if (GridConfig != null)
+{
+    <div @oncontextmenu:preventDefault="true">
+
+        <div class="row">
+            <div class="col-md-8">
+                <h3 style="display:@(!string.IsNullOrWhiteSpace(GridConfig.GridTitle) ?"block": "none")" @oncontextmenu="HandleTitleContextMenu">
+                    @GridConfig.GridTitle
+                    <span style="font-size:12px">
+                        @GridConfig.Total items
+                    </span>
+
+                </h3>
+            </div>
+            <div class="col-md-2" style="display:@(GridSearch.SearchProperty != null && GridSearch.DialogOpen == false ?"block": "none")">
+                <span class="btn btn-danger" @onclick="CancelClick">Remove filter</span>
+            </div>
+        </div>
+
+        @if (GridConfig.ItemList != null && GridConfig.GridColumnBases != null)
+        {
+            <table class=" table table-bordered table-striped ">
+                <thead>
+                    <tr class="theme">
+                        @foreach (GridColumnBase gridColumn in GridConfig.GridColumnBases.Where(x => !x.KeyColumn).OrderBy(x => x.Position))
+                        {
+
+                            <td Class="demo-h" SortId="@gridColumn.PropertyInfo.Name" @oncontextmenu="()=>HandleMouseUp(gridColumn)" @onclick="()=> SortColumn(gridColumn)">
+                                @gridColumn.Name <span>@((MarkupString)gridColumn.SortSymbol)</span>
+                            </td>
+
+                        }
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in GridConfig.ItemList)
+                    {
+                        <tr>
+                            @foreach (GridColumnBase gridColumn in GridConfig.GridColumnBases.Where(x => !x.KeyColumn).OrderBy(x => x.Position))
+                            {
+                                if (gridColumn.PropertyType == PropertyType.image)
+                                {
+                                    var value = $"<img src='{gridColumn.PropertyInfo.GetValue(item)}' style='max-width:30px'/>";
+                                    <td @oncontextmenu="()=>HandleCellContextMenu(gridColumn, item)">@((MarkupString)value)</td>
+                                }
+                                else
+                                {
+                                    <td @oncontextmenu="()=>HandleCellContextMenu(gridColumn, item)">@gridColumn.PropertyInfo.GetValue(item)</td>
+                                }
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <div style="display:@(GridConfig.Total > GridConfig.PageSize ?"block": "none")">
+                <MatPaginator Length="@GridConfig.Total" PageSize="@GridConfig.PageSize" Page="@OnPage"></MatPaginator>
+            </div>
+            <div style="display:@(!GridConfig.ItemList.Any() ?"block": "none")">
+                <p class="text-danger text-center"> No results found </p>
+            </div>
+
+        }
+        <div style="display:@(GridConfig.GridColumnBases == null ?"block": "none")">
+            <p class="text-danger text-center"> Oops, No columns in this grid </p>
+        </div>
+
+        <MatDialog @bind-IsOpen="@GridSearch.DialogOpen" CanBeClosed="false" Style="max-width:none;">
+            <MatDialogTitle Class="text-center">Search in column @GridSearch.SearchPropName </MatDialogTitle>
+            <MatDialogContent>
+                @if (GridSearch.SearchPropType == PropertyType.text)
+                {
+                    <form class="form-inline">
+                        <div class="form-group mb-2">
+                            <input type="text" @bind="@GridSearch.SearchText" class="form-control theme" @onkeypress="KeyHandler" style="box-shadow:none;" />
+                        </div>
+                        <div class="form-group mx-sm-3 mb-2">
+                            <input type="checkbox" value="MatchCase" class="form-control" @bind="@GridSearch.CaseSensitive" /><label><strong>&nbsp;Match case</strong></label>
+                        </div>
+
+                    </form>
+                }
+                else if (GridSearch.SearchPropType == PropertyType.number)
+                {
+                    @if (GridSearch.NumberSearchTypeSelected != NumberSelectionType.Between)
+                    {
+                        <input type="text" class="form-control theme" @bind="@GridSearch.SearchText" @onkeypress="KeyHandler" style="box-shadow:none;" />
+                    }
+                    else
+                    {
+                        <form class="form-inline">
+                            <input type="text" class="form-control theme" @bind="@GridSearch.SearchText" @onkeypress="KeyHandler" style="box-shadow:none;" />
+                            <label>&nbsp;and&nbsp;</label>
+                            <input type="text" class="form-control theme" @bind="@GridSearch.SearchText2" @onkeypress="KeyHandler" style="box-shadow:none;" />
+                        </form>
+                    }
+                    <hr />
+                    <form class="form-inline text-center">
+                        @foreach (var item in Enum.GetValues(typeof(NumberSelectionType)))
+                        {
+                            <input type="radio" name="NumberSearchType" value="@item.ToString()" @onchange="NumberSelectionChanged"
+                                   checked=@(GridSearch.NumberSearchTypeSelected == (NumberSelectionType)item) />
+                            <label><strong>&nbsp;@item.ToString().Replace("_", " ")&nbsp;&nbsp;&nbsp;</strong></label>
+                        }
+                    </form>
+                }
+                else if (GridSearch.SearchPropType == PropertyType.datetime)
+                {
+                    <div class="row">
+                        <div class="col-md-6"><MatDatePicker Label="Desde" TValue="DateTime" @bind-Value="@GridSearch.SearchDateFrom"></MatDatePicker></div>
+                        <div class="col-md-6"><MatDatePicker Label="Hasta" TValue="DateTime" @bind-Value="@GridSearch.SearchDateTo"></MatDatePicker></div>
+                    </div>
+                }
+                else if (GridSearch.SearchPropType == PropertyType.list)
+                {
+                    <div class="row">
+                        <select class="form-control theme" @bind="@GridSearch.SearchText" style="box-shadow:none;">
+                            @foreach (string slt in GridSearch.SearchSelect.OrderBy(x => x))
+                            {
+                                <option value="@slt">@slt</option>
+                            }
+                        </select>
+                    </div>
+                }
+
+            </MatDialogContent>
+            <MatDialogActions>
+                <div class="form-row text-center">
+                    <div class="col">
+                        <a @onclick="@CancelClick" class="btn btn-block text-center theme"><strong>Cancel</strong></a>
+                    </div>
+                    <div class="col">
+                        <a @onclick="@OkClick" class="btn btn-block text-center theme"><strong>OK</strong></a>
+                        
+                    </div>
+                </div>
+            </MatDialogActions>
+        </MatDialog>
+
+
+        <MatDialog @bind-IsOpen="@ShowContextMenu" Style="max-width:none!important;width:100%">
+            <MatDialogTitle><p class="text-center">Row options</p></MatDialogTitle>
+            <MatDialogContent>
+                @if (CellContexMenu != null)
+                {
+                    <table class="table table-bordered table-responsive" style="width:100%;font-size:12px">
+                        <tr>
+                            @foreach (GridColumnBase gridColumn in GridConfig.GridColumnBases.OrderBy(x => x.Position))
+                            {
+                                <td>@gridColumn.PropertyInfo.GetValue(CellContexMenu.OneItemList.FirstOrDefault())</td>
+                            }
+                        </tr>
+
+                    </table>
+                    <hr />
+                    <div class="form-row text-center">
+                        @foreach (ContextMenuOption cmo in CellContexMenu.GridColumn.ContextMenuOptions)
+                        {
+                            <div class="col">
+                                <a href="@cmo.Page" class=" btn @cmo.BtnCss text-center form-control">@cmo.Name</a>
+                            </div>
+                        }
+                    </div>
+                }
+            </MatDialogContent>
+        </MatDialog>
+
+        <MatDialog @bind-IsOpen="@(ShowTitleContextMenu)" Style="max-width:none!important;width:100%">
+            <MatDialogTitle><p class="text-center">Grid Options</p></MatDialogTitle>
+            <MatDialogContent>
+                @if (GridConfig.ContextTitleMenuOptions != null && GridConfig.ContextTitleMenuOptions.Any())
+                {
+                    foreach (ContextMenuOption cmo in GridConfig.ContextTitleMenuOptions)
+                    {
+                        @if (cmo.Id == "download")
+                        {
+                            <a @onclick="@DownloadExcel" class="btn @cmo.BtnCss btn-block form-control text-center theme">@cmo.Name</a>
+                        }
+                        else if (cmo.Id == "upload")
+                        {
+                            <a @onclick="@UploadMenu" class="btn @cmo.BtnCss btn-block form-control text-center theme">@cmo.Name</a>
+                        }
+                        else if (cmo.Id == "test")
+                        {
+                            <a @onclick="@Test" class="btn @cmo.BtnCss btn-block form-control text-center theme">@cmo.Name</a>
+                        }
+                        else
+                        {
+                            <a href="@cmo.Page" class=" btn @cmo.BtnCss btn-block form-control text-center theme">@cmo.Name</a>
+                        }
+
+                    }
+                    if (ShowUploadSubMenu)
+                    {
+                        <hr />
+                        <div class="row">
+                            <input @onclick="@DownloadSample" class="btn btn-primary btn-block text-center" value="Download sample" />
+                            <MatFileUpload class="btn btn-block text-center" OnChange="@FilesReadyForContent" Label="Select or drag file"></MatFileUpload>
+                        </div>
+                    }
+                }
+            </MatDialogContent>
+        </MatDialog>
+    </div>
+}
+else
+{
+    <p class="text-danger">We can't display the grid. You must implement GridConfiguration. <span class="text-info">"GridConfig="@(new GridClasses.GridConfigurationBase())"</span></p>
+}
+
+<style>
+    .theme{
+        background-color:@GridConfig.Theme.HeaderColor;
+        color:@GridConfig.Theme.HeaderFontColor!important;
+    }
+</style>

@@ -1,0 +1,7004 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "city": "Ensanche Luperón",
+      "amount": "$5.97",
+      "ratio": 95.2042,
+      "rag": 1
+    },
+    {
+      "id": 2,
+      "city": "Anjiang",
+      "amount": "$9.99",
+      "ratio": 24.4449,
+      "rag": 2
+    },
+    {
+      "id": 3,
+      "city": "Lurut",
+      "amount": "$6.62",
+      "ratio": 37.0592,
+      "rag": 1
+    },
+    {
+      "id": 4,
+      "city": "Besuki",
+      "amount": "$7.45",
+      "ratio": 19.4063,
+      "rag": 3
+    },
+    {
+      "id": 5,
+      "city": "Majalengka",
+      "amount": "$6.23",
+      "ratio": 46.136,
+      "rag": 2
+    },
+    {
+      "id": 6,
+      "city": "Sakaiminato",
+      "amount": "$6.65",
+      "ratio": 12.3227,
+      "rag": 1
+    },
+    {
+      "id": 7,
+      "city": "Likwatang Timur",
+      "amount": "$0.32",
+      "ratio": 79.6156,
+      "rag": 2
+    },
+    {
+      "id": 8,
+      "city": "København",
+      "amount": "$4.74",
+      "ratio": 87.057,
+      "rag": 3
+    },
+    {
+      "id": 9,
+      "city": "Pétionville",
+      "amount": "$5.32",
+      "ratio": 21.9572,
+      "rag": 3
+    },
+    {
+      "id": 10,
+      "city": "Makedonski Brod",
+      "amount": "$4.17",
+      "ratio": 3.6666,
+      "rag": 1
+    },
+    {
+      "id": 11,
+      "city": "Conqueiros",
+      "amount": "$6.17",
+      "ratio": 4.0655,
+      "rag": 1
+    },
+    {
+      "id": 12,
+      "city": "Chantilly",
+      "amount": "$9.22",
+      "ratio": 21.1446,
+      "rag": 2
+    },
+    {
+      "id": 13,
+      "city": "Gadingrejo",
+      "amount": "$2.89",
+      "ratio": 58.715,
+      "rag": 3
+    },
+    {
+      "id": 14,
+      "city": "Olleros",
+      "amount": "$1.81",
+      "ratio": 70.6219,
+      "rag": 2
+    },
+    {
+      "id": 15,
+      "city": "Ribeira Grande",
+      "amount": "$7.00",
+      "ratio": 60.4235,
+      "rag": 1
+    },
+    {
+      "id": 16,
+      "city": "Jabłonka",
+      "amount": "$5.64",
+      "ratio": 5.1954,
+      "rag": 1
+    },
+    {
+      "id": 17,
+      "city": "Khemisset",
+      "amount": "$4.97",
+      "ratio": 96.2465,
+      "rag": 1
+    },
+    {
+      "id": 18,
+      "city": "Mayuan",
+      "amount": "$1.53",
+      "ratio": 79.961,
+      "rag": 1
+    },
+    {
+      "id": 19,
+      "city": "Boroon",
+      "amount": "$6.37",
+      "ratio": 75.9008,
+      "rag": 1
+    },
+    {
+      "id": 20,
+      "city": "Dolo",
+      "amount": "$1.59",
+      "ratio": 34.4565,
+      "rag": 3
+    },
+    {
+      "id": 21,
+      "city": "Bhāndāria",
+      "amount": "$1.15",
+      "ratio": 7.2103,
+      "rag": 1
+    },
+    {
+      "id": 22,
+      "city": "Kazaure",
+      "amount": "$8.29",
+      "ratio": 89.4103,
+      "rag": 1
+    },
+    {
+      "id": 23,
+      "city": "Wa’eryi",
+      "amount": "$7.96",
+      "ratio": 99.97,
+      "rag": 2
+    },
+    {
+      "id": 24,
+      "city": "‘Aqrah",
+      "amount": "$6.71",
+      "ratio": 97.9336,
+      "rag": 1
+    },
+    {
+      "id": 25,
+      "city": "Raejeru",
+      "amount": "$1.64",
+      "ratio": 45.6562,
+      "rag": 1
+    },
+    {
+      "id": 26,
+      "city": "Sundsvall",
+      "amount": "$1.32",
+      "ratio": 24.5098,
+      "rag": 3
+    },
+    {
+      "id": 27,
+      "city": "Lendava",
+      "amount": "$3.07",
+      "ratio": 56.8704,
+      "rag": 2
+    },
+    {
+      "id": 28,
+      "city": "Xiaojia",
+      "amount": "$2.74",
+      "ratio": 17.4769,
+      "rag": 3
+    },
+    {
+      "id": 29,
+      "city": "Choros",
+      "amount": "$1.34",
+      "ratio": 20.3712,
+      "rag": 1
+    },
+    {
+      "id": 30,
+      "city": "Dongyong",
+      "amount": "$2.63",
+      "ratio": 59.9004,
+      "rag": 1
+    },
+    {
+      "id": 31,
+      "city": "Conselheiro Lafaiete",
+      "amount": "$9.48",
+      "ratio": 16.5152,
+      "rag": 2
+    },
+    {
+      "id": 32,
+      "city": "Nantes",
+      "amount": "$8.83",
+      "ratio": 92.2634,
+      "rag": 3
+    },
+    {
+      "id": 33,
+      "city": "Kamru",
+      "amount": "$4.48",
+      "ratio": 10.7666,
+      "rag": 3
+    },
+    {
+      "id": 34,
+      "city": "Cabitan",
+      "amount": "$5.39",
+      "ratio": 60.3352,
+      "rag": 1
+    },
+    {
+      "id": 35,
+      "city": "Dūrā al Qar‘",
+      "amount": "$2.33",
+      "ratio": 38.3642,
+      "rag": 1
+    },
+    {
+      "id": 36,
+      "city": "Novosineglazovskiy",
+      "amount": "$8.62",
+      "ratio": 38.2313,
+      "rag": 3
+    },
+    {
+      "id": 37,
+      "city": "Liulin",
+      "amount": "$9.72",
+      "ratio": 53.5708,
+      "rag": 2
+    },
+    {
+      "id": 38,
+      "city": "Tmourghout",
+      "amount": "$9.23",
+      "ratio": 27.1889,
+      "rag": 1
+    },
+    {
+      "id": 39,
+      "city": "Yavne",
+      "amount": "$0.58",
+      "ratio": 5.7685,
+      "rag": 1
+    },
+    {
+      "id": 40,
+      "city": "Askim",
+      "amount": "$6.15",
+      "ratio": 11.8705,
+      "rag": 1
+    },
+    {
+      "id": 41,
+      "city": "Ruda Śląska",
+      "amount": "$0.50",
+      "ratio": 70.6172,
+      "rag": 2
+    },
+    {
+      "id": 42,
+      "city": "Yangiyŭl",
+      "amount": "$7.05",
+      "ratio": 40.9427,
+      "rag": 2
+    },
+    {
+      "id": 43,
+      "city": "Yinxi",
+      "amount": "$2.36",
+      "ratio": 37.0873,
+      "rag": 3
+    },
+    {
+      "id": 44,
+      "city": "Agen",
+      "amount": "$7.91",
+      "ratio": 78.7936,
+      "rag": 1
+    },
+    {
+      "id": 45,
+      "city": "Nartkala",
+      "amount": "$4.95",
+      "ratio": 31.9771,
+      "rag": 2
+    },
+    {
+      "id": 46,
+      "city": "Agra",
+      "amount": "$8.93",
+      "ratio": 32.8383,
+      "rag": 3
+    },
+    {
+      "id": 47,
+      "city": "Nanmo",
+      "amount": "$6.76",
+      "ratio": 64.2597,
+      "rag": 2
+    },
+    {
+      "id": 48,
+      "city": "Miki",
+      "amount": "$3.84",
+      "ratio": 48.2662,
+      "rag": 1
+    },
+    {
+      "id": 49,
+      "city": "Unisław",
+      "amount": "$5.68",
+      "ratio": 81.2176,
+      "rag": 2
+    },
+    {
+      "id": 50,
+      "city": "Masingbi",
+      "amount": "$6.74",
+      "ratio": 12.9351,
+      "rag": 2
+    },
+    {
+      "id": 51,
+      "city": "Nyūzen",
+      "amount": "$8.21",
+      "ratio": 38.6097,
+      "rag": 1
+    },
+    {
+      "id": 52,
+      "city": "Acomayo",
+      "amount": "$9.27",
+      "ratio": 41.1464,
+      "rag": 3
+    },
+    {
+      "id": 53,
+      "city": "Velikovechnoye",
+      "amount": "$7.79",
+      "ratio": 34.4691,
+      "rag": 2
+    },
+    {
+      "id": 54,
+      "city": "Mayumba",
+      "amount": "$8.05",
+      "ratio": 93.1022,
+      "rag": 1
+    },
+    {
+      "id": 55,
+      "city": "Kalávryta",
+      "amount": "$8.52",
+      "ratio": 78.4505,
+      "rag": 3
+    },
+    {
+      "id": 56,
+      "city": "Kangar",
+      "amount": "$4.41",
+      "ratio": 69.6552,
+      "rag": 2
+    },
+    {
+      "id": 57,
+      "city": "Cogtong",
+      "amount": "$3.25",
+      "ratio": 51.0498,
+      "rag": 3
+    },
+    {
+      "id": 58,
+      "city": "Valongo",
+      "amount": "$7.37",
+      "ratio": 60.9159,
+      "rag": 1
+    },
+    {
+      "id": 59,
+      "city": "Itanhaém",
+      "amount": "$6.09",
+      "ratio": 98.4918,
+      "rag": 2
+    },
+    {
+      "id": 60,
+      "city": "Kobelyaky",
+      "amount": "$6.54",
+      "ratio": 96.6964,
+      "rag": 3
+    },
+    {
+      "id": 61,
+      "city": "Oslo",
+      "amount": "$8.11",
+      "ratio": 50.8638,
+      "rag": 1
+    },
+    {
+      "id": 62,
+      "city": "Tanumshede",
+      "amount": "$2.60",
+      "ratio": 86.109,
+      "rag": 3
+    },
+    {
+      "id": 63,
+      "city": "Bezons",
+      "amount": "$3.89",
+      "ratio": 65.4992,
+      "rag": 3
+    },
+    {
+      "id": 64,
+      "city": "Moret-sur-Loing",
+      "amount": "$5.40",
+      "ratio": 22.5772,
+      "rag": 3
+    },
+    {
+      "id": 65,
+      "city": "Yingde’er",
+      "amount": "$7.36",
+      "ratio": 36.868,
+      "rag": 3
+    },
+    {
+      "id": 66,
+      "city": "Mnogoudobnoye",
+      "amount": "$5.72",
+      "ratio": 45.3622,
+      "rag": 3
+    },
+    {
+      "id": 67,
+      "city": "Okayama-shi",
+      "amount": "$6.53",
+      "ratio": 74.4598,
+      "rag": 3
+    },
+    {
+      "id": 68,
+      "city": "Nehe",
+      "amount": "$5.72",
+      "ratio": 50.307,
+      "rag": 2
+    },
+    {
+      "id": 69,
+      "city": "Carania",
+      "amount": "$1.77",
+      "ratio": 36.1261,
+      "rag": 2
+    },
+    {
+      "id": 70,
+      "city": "Jiancha",
+      "amount": "$8.86",
+      "ratio": 86.1104,
+      "rag": 1
+    },
+    {
+      "id": 71,
+      "city": "Konstantinovskoye",
+      "amount": "$5.42",
+      "ratio": 26.0171,
+      "rag": 1
+    },
+    {
+      "id": 72,
+      "city": "El Carmen",
+      "amount": "$1.65",
+      "ratio": 34.5234,
+      "rag": 2
+    },
+    {
+      "id": 73,
+      "city": "Hato Mayor del Rey",
+      "amount": "$9.01",
+      "ratio": 27.7068,
+      "rag": 1
+    },
+    {
+      "id": 74,
+      "city": "Ihosy",
+      "amount": "$5.28",
+      "ratio": 93.988,
+      "rag": 2
+    },
+    {
+      "id": 75,
+      "city": "Bastia",
+      "amount": "$1.67",
+      "ratio": 20.5237,
+      "rag": 2
+    },
+    {
+      "id": 76,
+      "city": "Limbaži",
+      "amount": "$1.08",
+      "ratio": 86.4873,
+      "rag": 3
+    },
+    {
+      "id": 77,
+      "city": "Oklahoma City",
+      "amount": "$3.26",
+      "ratio": 81.658,
+      "rag": 3
+    },
+    {
+      "id": 78,
+      "city": "Myitkyina",
+      "amount": "$0.27",
+      "ratio": 23.6227,
+      "rag": 2
+    },
+    {
+      "id": 79,
+      "city": "Banjar Bengkelgede",
+      "amount": "$6.85",
+      "ratio": 99.7315,
+      "rag": 3
+    },
+    {
+      "id": 80,
+      "city": "Blagaj",
+      "amount": "$1.25",
+      "ratio": 75.8705,
+      "rag": 3
+    },
+    {
+      "id": 81,
+      "city": "Ngulahan",
+      "amount": "$5.38",
+      "ratio": 87.1992,
+      "rag": 2
+    },
+    {
+      "id": 82,
+      "city": "Manfalūţ",
+      "amount": "$1.08",
+      "ratio": 92.9526,
+      "rag": 2
+    },
+    {
+      "id": 83,
+      "city": "Niebylec",
+      "amount": "$9.61",
+      "ratio": 64.634,
+      "rag": 3
+    },
+    {
+      "id": 84,
+      "city": "Mansôa",
+      "amount": "$2.97",
+      "ratio": 73.1094,
+      "rag": 1
+    },
+    {
+      "id": 85,
+      "city": "Yanhe",
+      "amount": "$0.80",
+      "ratio": 9.1841,
+      "rag": 1
+    },
+    {
+      "id": 86,
+      "city": "Lidu",
+      "amount": "$7.01",
+      "ratio": 13.3017,
+      "rag": 2
+    },
+    {
+      "id": 87,
+      "city": "Al Lagowa",
+      "amount": "$0.19",
+      "ratio": 47.3372,
+      "rag": 1
+    },
+    {
+      "id": 88,
+      "city": "Leninskiy",
+      "amount": "$3.22",
+      "ratio": 66.8667,
+      "rag": 2
+    },
+    {
+      "id": 89,
+      "city": "Verkhniy Baskunchak",
+      "amount": "$8.44",
+      "ratio": 15.5635,
+      "rag": 3
+    },
+    {
+      "id": 90,
+      "city": "Regimin",
+      "amount": "$5.54",
+      "ratio": 87.4951,
+      "rag": 1
+    },
+    {
+      "id": 91,
+      "city": "Schieren",
+      "amount": "$3.70",
+      "ratio": 36.941,
+      "rag": 3
+    },
+    {
+      "id": 92,
+      "city": "Szombathely",
+      "amount": "$9.14",
+      "ratio": 20.2885,
+      "rag": 2
+    },
+    {
+      "id": 93,
+      "city": "Palpalá",
+      "amount": "$9.02",
+      "ratio": 41.6677,
+      "rag": 3
+    },
+    {
+      "id": 94,
+      "city": "Dembéni",
+      "amount": "$4.40",
+      "ratio": 1.5589,
+      "rag": 1
+    },
+    {
+      "id": 95,
+      "city": "Wierzchucino",
+      "amount": "$7.51",
+      "ratio": 34.179,
+      "rag": 3
+    },
+    {
+      "id": 96,
+      "city": "Ala-Buka",
+      "amount": "$9.43",
+      "ratio": 66.423,
+      "rag": 1
+    },
+    {
+      "id": 97,
+      "city": "Fengle",
+      "amount": "$6.02",
+      "ratio": 2.2004,
+      "rag": 3
+    },
+    {
+      "id": 98,
+      "city": "Raydah",
+      "amount": "$0.34",
+      "ratio": 55.9399,
+      "rag": 2
+    },
+    {
+      "id": 99,
+      "city": "La Cumbre",
+      "amount": "$7.10",
+      "ratio": 93.7716,
+      "rag": 1
+    },
+    {
+      "id": 100,
+      "city": "Bealanana",
+      "amount": "$6.12",
+      "ratio": 36.6641,
+      "rag": 3
+    },
+    {
+      "id": 101,
+      "city": "Sävedalen",
+      "amount": "$6.30",
+      "ratio": 68.7837,
+      "rag": 3
+    },
+    {
+      "id": 102,
+      "city": "Plymouth",
+      "amount": "$6.76",
+      "ratio": 93.0377,
+      "rag": 1
+    },
+    {
+      "id": 103,
+      "city": "Tuofeng",
+      "amount": "$6.29",
+      "ratio": 37.0453,
+      "rag": 3
+    },
+    {
+      "id": 104,
+      "city": "Kunwi",
+      "amount": "$3.02",
+      "ratio": 58.578,
+      "rag": 2
+    },
+    {
+      "id": 105,
+      "city": "Yangqing",
+      "amount": "$7.82",
+      "ratio": 91.449,
+      "rag": 3
+    },
+    {
+      "id": 106,
+      "city": "Nggelok",
+      "amount": "$6.77",
+      "ratio": 87.0495,
+      "rag": 3
+    },
+    {
+      "id": 107,
+      "city": "‘Irbīn",
+      "amount": "$6.04",
+      "ratio": 57.1288,
+      "rag": 2
+    },
+    {
+      "id": 108,
+      "city": "Dimitrovgrad",
+      "amount": "$7.19",
+      "ratio": 86.0407,
+      "rag": 2
+    },
+    {
+      "id": 109,
+      "city": "Gołkowice",
+      "amount": "$9.15",
+      "ratio": 75.7213,
+      "rag": 3
+    },
+    {
+      "id": 110,
+      "city": "Rikitgaib",
+      "amount": "$5.04",
+      "ratio": 29.2575,
+      "rag": 2
+    },
+    {
+      "id": 111,
+      "city": "Orvault",
+      "amount": "$4.46",
+      "ratio": 14.818,
+      "rag": 3
+    },
+    {
+      "id": 112,
+      "city": "Pili",
+      "amount": "$0.34",
+      "ratio": 11.3491,
+      "rag": 2
+    },
+    {
+      "id": 113,
+      "city": "Yangambi",
+      "amount": "$8.39",
+      "ratio": 67.1657,
+      "rag": 1
+    },
+    {
+      "id": 114,
+      "city": "Fort Wayne",
+      "amount": "$7.53",
+      "ratio": 77.9121,
+      "rag": 1
+    },
+    {
+      "id": 115,
+      "city": "Stryszów",
+      "amount": "$8.52",
+      "ratio": 24.343,
+      "rag": 2
+    },
+    {
+      "id": 116,
+      "city": "Oslo",
+      "amount": "$2.82",
+      "ratio": 97.8779,
+      "rag": 3
+    },
+    {
+      "id": 117,
+      "city": "Jeżów Sudecki",
+      "amount": "$8.86",
+      "ratio": 84.5574,
+      "rag": 2
+    },
+    {
+      "id": 118,
+      "city": "Sousa",
+      "amount": "$5.45",
+      "ratio": 76.1583,
+      "rag": 1
+    },
+    {
+      "id": 119,
+      "city": "Yahe",
+      "amount": "$7.49",
+      "ratio": 48.3868,
+      "rag": 2
+    },
+    {
+      "id": 120,
+      "city": "Boston",
+      "amount": "$4.44",
+      "ratio": 24.1074,
+      "rag": 2
+    },
+    {
+      "id": 121,
+      "city": "Chadong",
+      "amount": "$3.58",
+      "ratio": 64.2827,
+      "rag": 2
+    },
+    {
+      "id": 122,
+      "city": "Punkaharju",
+      "amount": "$4.75",
+      "ratio": 4.1461,
+      "rag": 2
+    },
+    {
+      "id": 123,
+      "city": "Qiganjidie",
+      "amount": "$1.87",
+      "ratio": 72.4044,
+      "rag": 1
+    },
+    {
+      "id": 124,
+      "city": "Xinxing",
+      "amount": "$1.31",
+      "ratio": 2.2409,
+      "rag": 2
+    },
+    {
+      "id": 125,
+      "city": "Beijiang",
+      "amount": "$6.63",
+      "ratio": 8.3177,
+      "rag": 2
+    },
+    {
+      "id": 126,
+      "city": "Zhangatas",
+      "amount": "$3.38",
+      "ratio": 30.4002,
+      "rag": 3
+    },
+    {
+      "id": 127,
+      "city": "Eckerö",
+      "amount": "$0.36",
+      "ratio": 24.1466,
+      "rag": 2
+    },
+    {
+      "id": 128,
+      "city": "Huayllati",
+      "amount": "$1.03",
+      "ratio": 1.8763,
+      "rag": 3
+    },
+    {
+      "id": 129,
+      "city": "Baracatan",
+      "amount": "$4.68",
+      "ratio": 97.9336,
+      "rag": 1
+    },
+    {
+      "id": 130,
+      "city": "Puerto Cabezas",
+      "amount": "$6.82",
+      "ratio": 71.344,
+      "rag": 3
+    },
+    {
+      "id": 131,
+      "city": "Zapolyarnyy",
+      "amount": "$9.15",
+      "ratio": 38.1969,
+      "rag": 2
+    },
+    {
+      "id": 132,
+      "city": "Fareydūnshahr",
+      "amount": "$7.64",
+      "ratio": 72.1446,
+      "rag": 3
+    },
+    {
+      "id": 133,
+      "city": "Hengjie",
+      "amount": "$7.32",
+      "ratio": 99.4874,
+      "rag": 2
+    },
+    {
+      "id": 134,
+      "city": "Panayagan",
+      "amount": "$3.61",
+      "ratio": 67.9087,
+      "rag": 1
+    },
+    {
+      "id": 135,
+      "city": "Bestala",
+      "amount": "$9.39",
+      "ratio": 2.7503,
+      "rag": 2
+    },
+    {
+      "id": 136,
+      "city": "Fushun",
+      "amount": "$7.77",
+      "ratio": 79.8799,
+      "rag": 2
+    },
+    {
+      "id": 137,
+      "city": "Mionica",
+      "amount": "$0.54",
+      "ratio": 32.4832,
+      "rag": 3
+    },
+    {
+      "id": 138,
+      "city": "Gandra",
+      "amount": "$4.53",
+      "ratio": 29.8383,
+      "rag": 2
+    },
+    {
+      "id": 139,
+      "city": "Gent",
+      "amount": "$3.44",
+      "ratio": 21.309,
+      "rag": 2
+    },
+    {
+      "id": 140,
+      "city": "Tonga",
+      "amount": "$2.35",
+      "ratio": 6.7754,
+      "rag": 2
+    },
+    {
+      "id": 141,
+      "city": "Sabang",
+      "amount": "$7.76",
+      "ratio": 42.3856,
+      "rag": 1
+    },
+    {
+      "id": 142,
+      "city": "Lieqiao",
+      "amount": "$3.38",
+      "ratio": 96.4089,
+      "rag": 2
+    },
+    {
+      "id": 143,
+      "city": "Uppsala",
+      "amount": "$4.24",
+      "ratio": 6.9233,
+      "rag": 1
+    },
+    {
+      "id": 144,
+      "city": "Rejowinangun",
+      "amount": "$9.77",
+      "ratio": 56.4916,
+      "rag": 3
+    },
+    {
+      "id": 145,
+      "city": "Matarraque",
+      "amount": "$0.31",
+      "ratio": 72.3888,
+      "rag": 1
+    },
+    {
+      "id": 146,
+      "city": "Chemal",
+      "amount": "$3.81",
+      "ratio": 57.8351,
+      "rag": 2
+    },
+    {
+      "id": 147,
+      "city": "Margara",
+      "amount": "$7.36",
+      "ratio": 99.4329,
+      "rag": 1
+    },
+    {
+      "id": 148,
+      "city": "Karanganyarkrajan",
+      "amount": "$2.22",
+      "ratio": 41.0354,
+      "rag": 3
+    },
+    {
+      "id": 149,
+      "city": "Aricagua",
+      "amount": "$1.86",
+      "ratio": 57.9915,
+      "rag": 2
+    },
+    {
+      "id": 150,
+      "city": "Summerside",
+      "amount": "$9.65",
+      "ratio": 53.2507,
+      "rag": 1
+    },
+    {
+      "id": 151,
+      "city": "Meixian",
+      "amount": "$0.66",
+      "ratio": 5.846,
+      "rag": 2
+    },
+    {
+      "id": 152,
+      "city": "Ramotswa",
+      "amount": "$1.80",
+      "ratio": 76.9376,
+      "rag": 3
+    },
+    {
+      "id": 153,
+      "city": "Sudimoro",
+      "amount": "$3.22",
+      "ratio": 29.701,
+      "rag": 2
+    },
+    {
+      "id": 154,
+      "city": "Zamora",
+      "amount": "$6.75",
+      "ratio": 71.659,
+      "rag": 2
+    },
+    {
+      "id": 155,
+      "city": "Sarvaš",
+      "amount": "$5.74",
+      "ratio": 4.3404,
+      "rag": 3
+    },
+    {
+      "id": 156,
+      "city": "San Rafael",
+      "amount": "$0.21",
+      "ratio": 41.9772,
+      "rag": 2
+    },
+    {
+      "id": 157,
+      "city": "Duma",
+      "amount": "$9.91",
+      "ratio": 54.1376,
+      "rag": 3
+    },
+    {
+      "id": 158,
+      "city": "Kuala Lumpur",
+      "amount": "$5.55",
+      "ratio": 81.7976,
+      "rag": 2
+    },
+    {
+      "id": 159,
+      "city": "Cayambe",
+      "amount": "$1.96",
+      "ratio": 25.8609,
+      "rag": 2
+    },
+    {
+      "id": 160,
+      "city": "Xia’ertai",
+      "amount": "$0.79",
+      "ratio": 27.0909,
+      "rag": 3
+    },
+    {
+      "id": 161,
+      "city": "Trŭn",
+      "amount": "$7.51",
+      "ratio": 36.001,
+      "rag": 1
+    },
+    {
+      "id": 162,
+      "city": "Grzmiąca",
+      "amount": "$6.96",
+      "ratio": 32.3118,
+      "rag": 2
+    },
+    {
+      "id": 163,
+      "city": "Sobotka",
+      "amount": "$8.95",
+      "ratio": 5.5386,
+      "rag": 1
+    },
+    {
+      "id": 164,
+      "city": "Namp’o",
+      "amount": "$8.38",
+      "ratio": 9.4251,
+      "rag": 1
+    },
+    {
+      "id": 165,
+      "city": "Alasmalang",
+      "amount": "$3.24",
+      "ratio": 35.8116,
+      "rag": 3
+    },
+    {
+      "id": 166,
+      "city": "Uruzgān",
+      "amount": "$3.80",
+      "ratio": 89.3464,
+      "rag": 2
+    },
+    {
+      "id": 167,
+      "city": "Kotaagung",
+      "amount": "$9.51",
+      "ratio": 64.1732,
+      "rag": 2
+    },
+    {
+      "id": 168,
+      "city": "Kuching",
+      "amount": "$3.37",
+      "ratio": 96.9545,
+      "rag": 3
+    },
+    {
+      "id": 169,
+      "city": "Casa Nova",
+      "amount": "$9.21",
+      "ratio": 91.1711,
+      "rag": 2
+    },
+    {
+      "id": 170,
+      "city": "Storuman",
+      "amount": "$0.06",
+      "ratio": 58.419,
+      "rag": 2
+    },
+    {
+      "id": 171,
+      "city": "Taramana",
+      "amount": "$3.57",
+      "ratio": 44.6803,
+      "rag": 1
+    },
+    {
+      "id": 172,
+      "city": "Ibarra",
+      "amount": "$3.43",
+      "ratio": 9.659,
+      "rag": 1
+    },
+    {
+      "id": 173,
+      "city": "Głuchołazy",
+      "amount": "$6.05",
+      "ratio": 81.3025,
+      "rag": 3
+    },
+    {
+      "id": 174,
+      "city": "Krasnyy Gulyay",
+      "amount": "$7.64",
+      "ratio": 87.0445,
+      "rag": 2
+    },
+    {
+      "id": 175,
+      "city": "Havana",
+      "amount": "$4.62",
+      "ratio": 50.6974,
+      "rag": 3
+    },
+    {
+      "id": 176,
+      "city": "København",
+      "amount": "$6.01",
+      "ratio": 48.1764,
+      "rag": 1
+    },
+    {
+      "id": 177,
+      "city": "Acheng",
+      "amount": "$4.04",
+      "ratio": 45.0062,
+      "rag": 1
+    },
+    {
+      "id": 178,
+      "city": "Chazón",
+      "amount": "$7.14",
+      "ratio": 13.6042,
+      "rag": 3
+    },
+    {
+      "id": 179,
+      "city": "Mitry-Mory",
+      "amount": "$2.54",
+      "ratio": 98.2226,
+      "rag": 3
+    },
+    {
+      "id": 180,
+      "city": "Oslo",
+      "amount": "$5.51",
+      "ratio": 18.7618,
+      "rag": 3
+    },
+    {
+      "id": 181,
+      "city": "San Luis Jilotepeque",
+      "amount": "$5.28",
+      "ratio": 66.0365,
+      "rag": 2
+    },
+    {
+      "id": 182,
+      "city": "Guolemude",
+      "amount": "$5.41",
+      "ratio": 51.2615,
+      "rag": 3
+    },
+    {
+      "id": 183,
+      "city": "Calanogas",
+      "amount": "$6.14",
+      "ratio": 73.3448,
+      "rag": 2
+    },
+    {
+      "id": 184,
+      "city": "Carromeu",
+      "amount": "$6.44",
+      "ratio": 85.9925,
+      "rag": 3
+    },
+    {
+      "id": 185,
+      "city": "Zhudian",
+      "amount": "$9.83",
+      "ratio": 48.8015,
+      "rag": 3
+    },
+    {
+      "id": 186,
+      "city": "Enskede",
+      "amount": "$2.78",
+      "ratio": 33.5344,
+      "rag": 1
+    },
+    {
+      "id": 187,
+      "city": "Nouaseur",
+      "amount": "$9.10",
+      "ratio": 5.3435,
+      "rag": 2
+    },
+    {
+      "id": 188,
+      "city": "Mabasa",
+      "amount": "$5.54",
+      "ratio": 22.0741,
+      "rag": 3
+    },
+    {
+      "id": 189,
+      "city": "Stavanger",
+      "amount": "$5.02",
+      "ratio": 30.8392,
+      "rag": 2
+    },
+    {
+      "id": 190,
+      "city": "Tanjung",
+      "amount": "$1.05",
+      "ratio": 17.7387,
+      "rag": 3
+    },
+    {
+      "id": 191,
+      "city": "Budapest",
+      "amount": "$5.11",
+      "ratio": 68.6317,
+      "rag": 1
+    },
+    {
+      "id": 192,
+      "city": "Västerås",
+      "amount": "$1.02",
+      "ratio": 91.2139,
+      "rag": 1
+    },
+    {
+      "id": 193,
+      "city": "Nancang",
+      "amount": "$7.48",
+      "ratio": 37.3935,
+      "rag": 1
+    },
+    {
+      "id": 194,
+      "city": "Karanggeneng",
+      "amount": "$7.95",
+      "ratio": 68.7638,
+      "rag": 3
+    },
+    {
+      "id": 195,
+      "city": "‘Aşīrah ash Shamālīyah",
+      "amount": "$0.89",
+      "ratio": 25.9549,
+      "rag": 2
+    },
+    {
+      "id": 196,
+      "city": "Kynopiástes",
+      "amount": "$9.33",
+      "ratio": 99.7796,
+      "rag": 3
+    },
+    {
+      "id": 197,
+      "city": "Juradó",
+      "amount": "$6.55",
+      "ratio": 59.6554,
+      "rag": 3
+    },
+    {
+      "id": 198,
+      "city": "Wuli",
+      "amount": "$4.27",
+      "ratio": 51.1206,
+      "rag": 3
+    },
+    {
+      "id": 199,
+      "city": "Aguitu",
+      "amount": "$1.10",
+      "ratio": 44.5502,
+      "rag": 3
+    },
+    {
+      "id": 200,
+      "city": "Pucallpa",
+      "amount": "$8.12",
+      "ratio": 56.1959,
+      "rag": 3
+    },
+    {
+      "id": 201,
+      "city": "Gaur",
+      "amount": "$6.80",
+      "ratio": 17.5415,
+      "rag": 2
+    },
+    {
+      "id": 202,
+      "city": "Ampanihy",
+      "amount": "$8.52",
+      "ratio": 6.8317,
+      "rag": 3
+    },
+    {
+      "id": 203,
+      "city": "Kingston",
+      "amount": "$3.50",
+      "ratio": 23.3096,
+      "rag": 3
+    },
+    {
+      "id": 204,
+      "city": "Figueira Castelo Rodrigo",
+      "amount": "$0.89",
+      "ratio": 12.6336,
+      "rag": 3
+    },
+    {
+      "id": 205,
+      "city": "Cipanas",
+      "amount": "$5.20",
+      "ratio": 92.0932,
+      "rag": 2
+    },
+    {
+      "id": 206,
+      "city": "La Sarrosa",
+      "amount": "$9.74",
+      "ratio": 8.7804,
+      "rag": 1
+    },
+    {
+      "id": 207,
+      "city": "Palykavichy Pyershyya",
+      "amount": "$7.46",
+      "ratio": 4.2385,
+      "rag": 3
+    },
+    {
+      "id": 208,
+      "city": "Železná Ruda",
+      "amount": "$9.17",
+      "ratio": 41.7795,
+      "rag": 3
+    },
+    {
+      "id": 209,
+      "city": "Trois-Rivières",
+      "amount": "$6.57",
+      "ratio": 13.9061,
+      "rag": 2
+    },
+    {
+      "id": 210,
+      "city": "Dagupan",
+      "amount": "$9.80",
+      "ratio": 36.5642,
+      "rag": 2
+    },
+    {
+      "id": 211,
+      "city": "Qiaotou",
+      "amount": "$2.34",
+      "ratio": 85.7147,
+      "rag": 3
+    },
+    {
+      "id": 212,
+      "city": "Xiushi",
+      "amount": "$2.88",
+      "ratio": 7.2864,
+      "rag": 3
+    },
+    {
+      "id": 213,
+      "city": "Beolgyo",
+      "amount": "$0.37",
+      "ratio": 76.9679,
+      "rag": 3
+    },
+    {
+      "id": 214,
+      "city": "Saint-André-Avellin",
+      "amount": "$1.46",
+      "ratio": 8.509,
+      "rag": 2
+    },
+    {
+      "id": 215,
+      "city": "Māymay",
+      "amount": "$7.67",
+      "ratio": 66.7224,
+      "rag": 3
+    },
+    {
+      "id": 216,
+      "city": "Sopo",
+      "amount": "$6.67",
+      "ratio": 56.7023,
+      "rag": 1
+    },
+    {
+      "id": 217,
+      "city": "Kedungkrajan",
+      "amount": "$0.50",
+      "ratio": 46.6629,
+      "rag": 1
+    },
+    {
+      "id": 218,
+      "city": "Cox’s Bāzār",
+      "amount": "$2.89",
+      "ratio": 32.1111,
+      "rag": 3
+    },
+    {
+      "id": 219,
+      "city": "Jiaocha",
+      "amount": "$8.27",
+      "ratio": 21.3602,
+      "rag": 2
+    },
+    {
+      "id": 220,
+      "city": "Giồng Riềng",
+      "amount": "$6.66",
+      "ratio": 21.2951,
+      "rag": 2
+    },
+    {
+      "id": 221,
+      "city": "Jablanovec",
+      "amount": "$0.82",
+      "ratio": 45.8182,
+      "rag": 2
+    },
+    {
+      "id": 222,
+      "city": "New Mīrpur",
+      "amount": "$5.85",
+      "ratio": 89.4453,
+      "rag": 1
+    },
+    {
+      "id": 223,
+      "city": "Larvik",
+      "amount": "$7.15",
+      "ratio": 62.8283,
+      "rag": 3
+    },
+    {
+      "id": 224,
+      "city": "Tete",
+      "amount": "$0.21",
+      "ratio": 8.589,
+      "rag": 3
+    },
+    {
+      "id": 225,
+      "city": "Changning",
+      "amount": "$1.53",
+      "ratio": 52.2503,
+      "rag": 2
+    },
+    {
+      "id": 226,
+      "city": "Cigedang",
+      "amount": "$9.78",
+      "ratio": 70.2023,
+      "rag": 1
+    },
+    {
+      "id": 227,
+      "city": "Luka nad Jihlavou",
+      "amount": "$6.31",
+      "ratio": 11.6182,
+      "rag": 1
+    },
+    {
+      "id": 228,
+      "city": "Paingar",
+      "amount": "$2.93",
+      "ratio": 34.6503,
+      "rag": 2
+    },
+    {
+      "id": 229,
+      "city": "Khursā",
+      "amount": "$4.36",
+      "ratio": 52.4147,
+      "rag": 2
+    },
+    {
+      "id": 230,
+      "city": "Haolaishan",
+      "amount": "$1.26",
+      "ratio": 17.1922,
+      "rag": 2
+    },
+    {
+      "id": 231,
+      "city": "Carmen",
+      "amount": "$4.62",
+      "ratio": 30.3467,
+      "rag": 3
+    },
+    {
+      "id": 232,
+      "city": "San Jose",
+      "amount": "$7.70",
+      "ratio": 10.1821,
+      "rag": 1
+    },
+    {
+      "id": 233,
+      "city": "Saparbay",
+      "amount": "$1.42",
+      "ratio": 97.4868,
+      "rag": 1
+    },
+    {
+      "id": 234,
+      "city": "Minna",
+      "amount": "$7.94",
+      "ratio": 68.5608,
+      "rag": 1
+    },
+    {
+      "id": 235,
+      "city": "Hexi",
+      "amount": "$0.97",
+      "ratio": 55.1031,
+      "rag": 3
+    },
+    {
+      "id": 236,
+      "city": "Condega",
+      "amount": "$4.02",
+      "ratio": 11.3266,
+      "rag": 1
+    },
+    {
+      "id": 237,
+      "city": "Luntas",
+      "amount": "$6.82",
+      "ratio": 54.2067,
+      "rag": 2
+    },
+    {
+      "id": 238,
+      "city": "Duboka",
+      "amount": "$7.85",
+      "ratio": 66.5643,
+      "rag": 1
+    },
+    {
+      "id": 239,
+      "city": "Campaka",
+      "amount": "$1.48",
+      "ratio": 93.5595,
+      "rag": 2
+    },
+    {
+      "id": 240,
+      "city": "Yirshi",
+      "amount": "$5.75",
+      "ratio": 24.1263,
+      "rag": 3
+    },
+    {
+      "id": 241,
+      "city": "Khovd",
+      "amount": "$4.89",
+      "ratio": 49.4434,
+      "rag": 1
+    },
+    {
+      "id": 242,
+      "city": "Thabazimbi",
+      "amount": "$1.97",
+      "ratio": 31.4043,
+      "rag": 1
+    },
+    {
+      "id": 243,
+      "city": "Arísvi",
+      "amount": "$5.04",
+      "ratio": 92.7474,
+      "rag": 3
+    },
+    {
+      "id": 244,
+      "city": "Zwierzyniec",
+      "amount": "$4.46",
+      "ratio": 54.538,
+      "rag": 2
+    },
+    {
+      "id": 245,
+      "city": "Langkou",
+      "amount": "$8.74",
+      "ratio": 66.6871,
+      "rag": 3
+    },
+    {
+      "id": 246,
+      "city": "Srokowo",
+      "amount": "$8.87",
+      "ratio": 78.7288,
+      "rag": 2
+    },
+    {
+      "id": 247,
+      "city": "Paris 18",
+      "amount": "$0.36",
+      "ratio": 90.1795,
+      "rag": 2
+    },
+    {
+      "id": 248,
+      "city": "Vecpiebalga",
+      "amount": "$5.02",
+      "ratio": 4.8147,
+      "rag": 1
+    },
+    {
+      "id": 249,
+      "city": "Pinoma",
+      "amount": "$5.52",
+      "ratio": 99.7403,
+      "rag": 3
+    },
+    {
+      "id": 250,
+      "city": "Piotrków Kujawski",
+      "amount": "$0.42",
+      "ratio": 37.4402,
+      "rag": 2
+    },
+    {
+      "id": 251,
+      "city": "Maiyema",
+      "amount": "$1.91",
+      "ratio": 40.6732,
+      "rag": 3
+    },
+    {
+      "id": 252,
+      "city": "Shihuiqiao",
+      "amount": "$2.98",
+      "ratio": 89.5925,
+      "rag": 3
+    },
+    {
+      "id": 253,
+      "city": "Panji",
+      "amount": "$3.44",
+      "ratio": 58.2826,
+      "rag": 2
+    },
+    {
+      "id": 254,
+      "city": "Jagiełła",
+      "amount": "$2.24",
+      "ratio": 73.2766,
+      "rag": 1
+    },
+    {
+      "id": 255,
+      "city": "Lidingö",
+      "amount": "$8.56",
+      "ratio": 64.606,
+      "rag": 1
+    },
+    {
+      "id": 256,
+      "city": "Ghormach",
+      "amount": "$5.85",
+      "ratio": 62.0747,
+      "rag": 2
+    },
+    {
+      "id": 257,
+      "city": "Qiman",
+      "amount": "$7.55",
+      "ratio": 2.8758,
+      "rag": 2
+    },
+    {
+      "id": 258,
+      "city": "Damāvand",
+      "amount": "$5.45",
+      "ratio": 31.8194,
+      "rag": 2
+    },
+    {
+      "id": 259,
+      "city": "Mazatenango",
+      "amount": "$7.82",
+      "ratio": 92.8329,
+      "rag": 2
+    },
+    {
+      "id": 260,
+      "city": "Toulouse",
+      "amount": "$6.58",
+      "ratio": 47.5176,
+      "rag": 2
+    },
+    {
+      "id": 261,
+      "city": "Ciudad del Este",
+      "amount": "$8.35",
+      "ratio": 70.5478,
+      "rag": 1
+    },
+    {
+      "id": 262,
+      "city": "Abakan",
+      "amount": "$6.22",
+      "ratio": 25.285,
+      "rag": 1
+    },
+    {
+      "id": 263,
+      "city": "Jaleswar",
+      "amount": "$6.87",
+      "ratio": 63.3206,
+      "rag": 3
+    },
+    {
+      "id": 264,
+      "city": "Solsona",
+      "amount": "$3.07",
+      "ratio": 61.7587,
+      "rag": 3
+    },
+    {
+      "id": 265,
+      "city": "Dengmingsi",
+      "amount": "$3.75",
+      "ratio": 21.3055,
+      "rag": 3
+    },
+    {
+      "id": 266,
+      "city": "Shajing",
+      "amount": "$7.36",
+      "ratio": 34.1903,
+      "rag": 1
+    },
+    {
+      "id": 267,
+      "city": "Hidalgo",
+      "amount": "$4.36",
+      "ratio": 54.1875,
+      "rag": 2
+    },
+    {
+      "id": 268,
+      "city": "General Alvear",
+      "amount": "$4.69",
+      "ratio": 9.6011,
+      "rag": 2
+    },
+    {
+      "id": 269,
+      "city": "Digby",
+      "amount": "$3.70",
+      "ratio": 52.1923,
+      "rag": 3
+    },
+    {
+      "id": 270,
+      "city": "Wysokie Mazowieckie",
+      "amount": "$2.63",
+      "ratio": 95.2941,
+      "rag": 1
+    },
+    {
+      "id": 271,
+      "city": "San Bernardo",
+      "amount": "$1.78",
+      "ratio": 10.6485,
+      "rag": 1
+    },
+    {
+      "id": 272,
+      "city": "Shanhou",
+      "amount": "$6.75",
+      "ratio": 96.5118,
+      "rag": 1
+    },
+    {
+      "id": 273,
+      "city": "Las Vegas",
+      "amount": "$9.11",
+      "ratio": 35.1807,
+      "rag": 1
+    },
+    {
+      "id": 274,
+      "city": "Ping’an",
+      "amount": "$9.07",
+      "ratio": 64.8863,
+      "rag": 1
+    },
+    {
+      "id": 275,
+      "city": "Molodohvardiys’k",
+      "amount": "$6.90",
+      "ratio": 34.6597,
+      "rag": 2
+    },
+    {
+      "id": 276,
+      "city": "Cikuda",
+      "amount": "$3.12",
+      "ratio": 88.0423,
+      "rag": 1
+    },
+    {
+      "id": 277,
+      "city": "Henggouqiao",
+      "amount": "$3.14",
+      "ratio": 40.1221,
+      "rag": 1
+    },
+    {
+      "id": 278,
+      "city": "Karpogory",
+      "amount": "$2.51",
+      "ratio": 44.1033,
+      "rag": 3
+    },
+    {
+      "id": 279,
+      "city": "Tilburg",
+      "amount": "$0.00",
+      "ratio": 91.6277,
+      "rag": 3
+    },
+    {
+      "id": 280,
+      "city": "Jayune",
+      "amount": "$2.10",
+      "ratio": 72.6947,
+      "rag": 2
+    },
+    {
+      "id": 281,
+      "city": "Masebewa",
+      "amount": "$5.53",
+      "ratio": 43.9374,
+      "rag": 2
+    },
+    {
+      "id": 282,
+      "city": "Lughaye",
+      "amount": "$5.32",
+      "ratio": 74.3099,
+      "rag": 3
+    },
+    {
+      "id": 283,
+      "city": "Kabankalan",
+      "amount": "$3.61",
+      "ratio": 29.6551,
+      "rag": 2
+    },
+    {
+      "id": 284,
+      "city": "Järfälla",
+      "amount": "$5.51",
+      "ratio": 67.9591,
+      "rag": 1
+    },
+    {
+      "id": 285,
+      "city": "Veselynove",
+      "amount": "$5.88",
+      "ratio": 41.6365,
+      "rag": 3
+    },
+    {
+      "id": 286,
+      "city": "Montgomery",
+      "amount": "$4.42",
+      "ratio": 22.3939,
+      "rag": 3
+    },
+    {
+      "id": 287,
+      "city": "Goodlands",
+      "amount": "$9.88",
+      "ratio": 6.8904,
+      "rag": 3
+    },
+    {
+      "id": 288,
+      "city": "Barbacoas",
+      "amount": "$0.06",
+      "ratio": 85.1693,
+      "rag": 1
+    },
+    {
+      "id": 289,
+      "city": "Rassvet",
+      "amount": "$5.10",
+      "ratio": 98.1988,
+      "rag": 1
+    },
+    {
+      "id": 290,
+      "city": "Paiçandu",
+      "amount": "$6.10",
+      "ratio": 41.335,
+      "rag": 1
+    },
+    {
+      "id": 291,
+      "city": "Bradashesh",
+      "amount": "$5.35",
+      "ratio": 81.1285,
+      "rag": 2
+    },
+    {
+      "id": 292,
+      "city": "Carleton Place",
+      "amount": "$7.38",
+      "ratio": 20.5944,
+      "rag": 2
+    },
+    {
+      "id": 293,
+      "city": "Pretoria",
+      "amount": "$0.47",
+      "ratio": 89.6624,
+      "rag": 2
+    },
+    {
+      "id": 294,
+      "city": "Mae Chan",
+      "amount": "$6.88",
+      "ratio": 33.0264,
+      "rag": 2
+    },
+    {
+      "id": 295,
+      "city": "‘Ubāl",
+      "amount": "$7.86",
+      "ratio": 81.2831,
+      "rag": 2
+    },
+    {
+      "id": 296,
+      "city": "Qishui",
+      "amount": "$6.98",
+      "ratio": 54.182,
+      "rag": 2
+    },
+    {
+      "id": 297,
+      "city": "Orlando",
+      "amount": "$6.12",
+      "ratio": 57.8108,
+      "rag": 3
+    },
+    {
+      "id": 298,
+      "city": "Buriram",
+      "amount": "$6.35",
+      "ratio": 76.6869,
+      "rag": 2
+    },
+    {
+      "id": 299,
+      "city": "Gasa",
+      "amount": "$9.10",
+      "ratio": 21.9268,
+      "rag": 1
+    },
+    {
+      "id": 300,
+      "city": "Porto de Mós",
+      "amount": "$6.25",
+      "ratio": 37.3601,
+      "rag": 2
+    },
+    {
+      "id": 301,
+      "city": "Chernogorsk",
+      "amount": "$3.09",
+      "ratio": 50.287,
+      "rag": 3
+    },
+    {
+      "id": 302,
+      "city": "Thới Bình",
+      "amount": "$5.03",
+      "ratio": 6.7824,
+      "rag": 2
+    },
+    {
+      "id": 303,
+      "city": "Xiamujiao",
+      "amount": "$0.68",
+      "ratio": 70.8359,
+      "rag": 3
+    },
+    {
+      "id": 304,
+      "city": "Larvik",
+      "amount": "$3.46",
+      "ratio": 1.1174,
+      "rag": 2
+    },
+    {
+      "id": 305,
+      "city": "Pola",
+      "amount": "$3.25",
+      "ratio": 83.5853,
+      "rag": 2
+    },
+    {
+      "id": 306,
+      "city": "Aqtoghay",
+      "amount": "$9.69",
+      "ratio": 50.7647,
+      "rag": 3
+    },
+    {
+      "id": 307,
+      "city": "Biryukove",
+      "amount": "$8.38",
+      "ratio": 86.6673,
+      "rag": 3
+    },
+    {
+      "id": 308,
+      "city": "Carmen",
+      "amount": "$8.61",
+      "ratio": 35.366,
+      "rag": 2
+    },
+    {
+      "id": 309,
+      "city": "Yanling",
+      "amount": "$1.65",
+      "ratio": 39.1069,
+      "rag": 2
+    },
+    {
+      "id": 310,
+      "city": "Segoro",
+      "amount": "$7.11",
+      "ratio": 79.4148,
+      "rag": 2
+    },
+    {
+      "id": 311,
+      "city": "Jingzhu",
+      "amount": "$2.01",
+      "ratio": 53.0812,
+      "rag": 1
+    },
+    {
+      "id": 312,
+      "city": "Olhão",
+      "amount": "$0.26",
+      "ratio": 8.8976,
+      "rag": 2
+    },
+    {
+      "id": 313,
+      "city": "Yeyik",
+      "amount": "$8.67",
+      "ratio": 7.7343,
+      "rag": 1
+    },
+    {
+      "id": 314,
+      "city": "Kragujevac",
+      "amount": "$6.94",
+      "ratio": 12.704,
+      "rag": 1
+    },
+    {
+      "id": 315,
+      "city": "Xinzhuang",
+      "amount": "$4.16",
+      "ratio": 19.6629,
+      "rag": 3
+    },
+    {
+      "id": 316,
+      "city": "Krouna",
+      "amount": "$2.03",
+      "ratio": 85.1894,
+      "rag": 2
+    },
+    {
+      "id": 317,
+      "city": "Wang Sam Mo",
+      "amount": "$0.84",
+      "ratio": 52.9877,
+      "rag": 2
+    },
+    {
+      "id": 318,
+      "city": "Butel",
+      "amount": "$4.36",
+      "ratio": 41.4278,
+      "rag": 3
+    },
+    {
+      "id": 319,
+      "city": "Kostel",
+      "amount": "$0.52",
+      "ratio": 54.1754,
+      "rag": 1
+    },
+    {
+      "id": 320,
+      "city": "Xuhui",
+      "amount": "$1.91",
+      "ratio": 98.7045,
+      "rag": 3
+    },
+    {
+      "id": 321,
+      "city": "Póvoa",
+      "amount": "$7.38",
+      "ratio": 36.5778,
+      "rag": 2
+    },
+    {
+      "id": 322,
+      "city": "Voyskovitsy",
+      "amount": "$0.74",
+      "ratio": 7.4841,
+      "rag": 3
+    },
+    {
+      "id": 323,
+      "city": "Hongxingqiao",
+      "amount": "$7.17",
+      "ratio": 94.1677,
+      "rag": 2
+    },
+    {
+      "id": 324,
+      "city": "Tingsiqiao",
+      "amount": "$3.23",
+      "ratio": 43.5089,
+      "rag": 2
+    },
+    {
+      "id": 325,
+      "city": "Maunatlala",
+      "amount": "$9.38",
+      "ratio": 38.0649,
+      "rag": 3
+    },
+    {
+      "id": 326,
+      "city": "Llaillay",
+      "amount": "$6.42",
+      "ratio": 97.4272,
+      "rag": 1
+    },
+    {
+      "id": 327,
+      "city": "Irákleia",
+      "amount": "$8.07",
+      "ratio": 69.1107,
+      "rag": 2
+    },
+    {
+      "id": 328,
+      "city": "Valledupar",
+      "amount": "$5.95",
+      "ratio": 35.6293,
+      "rag": 1
+    },
+    {
+      "id": 329,
+      "city": "Manaoag",
+      "amount": "$1.33",
+      "ratio": 93.1863,
+      "rag": 2
+    },
+    {
+      "id": 330,
+      "city": "Iksha",
+      "amount": "$5.37",
+      "ratio": 13.8473,
+      "rag": 3
+    },
+    {
+      "id": 331,
+      "city": "Bodzentyn",
+      "amount": "$2.56",
+      "ratio": 60.8756,
+      "rag": 1
+    },
+    {
+      "id": 332,
+      "city": "Carthage",
+      "amount": "$1.52",
+      "ratio": 48.2366,
+      "rag": 2
+    },
+    {
+      "id": 333,
+      "city": "Poiares",
+      "amount": "$4.24",
+      "ratio": 76.1888,
+      "rag": 3
+    },
+    {
+      "id": 334,
+      "city": "Sanxianling",
+      "amount": "$2.69",
+      "ratio": 8.422,
+      "rag": 1
+    },
+    {
+      "id": 335,
+      "city": "Pingdu",
+      "amount": "$4.07",
+      "ratio": 7.9084,
+      "rag": 2
+    },
+    {
+      "id": 336,
+      "city": "Ash Sharyah",
+      "amount": "$2.21",
+      "ratio": 83.098,
+      "rag": 2
+    },
+    {
+      "id": 337,
+      "city": "São João dos Inhamuns",
+      "amount": "$8.09",
+      "ratio": 86.8133,
+      "rag": 2
+    },
+    {
+      "id": 338,
+      "city": "Xishanzui",
+      "amount": "$0.61",
+      "ratio": 25.3283,
+      "rag": 3
+    },
+    {
+      "id": 339,
+      "city": "La Jagua de Ibirico",
+      "amount": "$2.58",
+      "ratio": 48.6056,
+      "rag": 3
+    },
+    {
+      "id": 340,
+      "city": "Masaraway",
+      "amount": "$6.28",
+      "ratio": 47.0865,
+      "rag": 3
+    },
+    {
+      "id": 341,
+      "city": "Nueva Gorgona",
+      "amount": "$1.61",
+      "ratio": 87.729,
+      "rag": 3
+    },
+    {
+      "id": 342,
+      "city": "Santa Ana",
+      "amount": "$4.88",
+      "ratio": 37.9455,
+      "rag": 2
+    },
+    {
+      "id": 343,
+      "city": "Zouma",
+      "amount": "$2.25",
+      "ratio": 30.0632,
+      "rag": 3
+    },
+    {
+      "id": 344,
+      "city": "Ambato",
+      "amount": "$4.54",
+      "ratio": 62.9229,
+      "rag": 2
+    },
+    {
+      "id": 345,
+      "city": "Ximafang",
+      "amount": "$1.55",
+      "ratio": 94.5594,
+      "rag": 3
+    },
+    {
+      "id": 346,
+      "city": "Mesa",
+      "amount": "$7.35",
+      "ratio": 66.7351,
+      "rag": 2
+    },
+    {
+      "id": 347,
+      "city": "Dongpu",
+      "amount": "$4.51",
+      "ratio": 40.9803,
+      "rag": 2
+    },
+    {
+      "id": 348,
+      "city": "Savigny-le-Temple",
+      "amount": "$0.62",
+      "ratio": 69.1057,
+      "rag": 3
+    },
+    {
+      "id": 349,
+      "city": "Tlogotunggal",
+      "amount": "$1.40",
+      "ratio": 14.9331,
+      "rag": 3
+    },
+    {
+      "id": 350,
+      "city": "El Corozo",
+      "amount": "$5.12",
+      "ratio": 3.7055,
+      "rag": 2
+    },
+    {
+      "id": 351,
+      "city": "Yongledian",
+      "amount": "$1.62",
+      "ratio": 56.0097,
+      "rag": 1
+    },
+    {
+      "id": 352,
+      "city": "Huacapampa",
+      "amount": "$8.53",
+      "ratio": 5.5659,
+      "rag": 1
+    },
+    {
+      "id": 353,
+      "city": "Beloeil",
+      "amount": "$0.32",
+      "ratio": 53.3225,
+      "rag": 1
+    },
+    {
+      "id": 354,
+      "city": "Pesucen",
+      "amount": "$7.17",
+      "ratio": 46.5604,
+      "rag": 1
+    },
+    {
+      "id": 355,
+      "city": "Kalungu",
+      "amount": "$0.51",
+      "ratio": 54.4674,
+      "rag": 2
+    },
+    {
+      "id": 356,
+      "city": "Greda",
+      "amount": "$6.79",
+      "ratio": 65.5609,
+      "rag": 1
+    },
+    {
+      "id": 357,
+      "city": "Curug",
+      "amount": "$6.66",
+      "ratio": 38.8891,
+      "rag": 3
+    },
+    {
+      "id": 358,
+      "city": "Ketang",
+      "amount": "$6.77",
+      "ratio": 99.4281,
+      "rag": 3
+    },
+    {
+      "id": 359,
+      "city": "Annotto Bay",
+      "amount": "$3.97",
+      "ratio": 55.0904,
+      "rag": 1
+    },
+    {
+      "id": 360,
+      "city": "Yangji",
+      "amount": "$3.60",
+      "ratio": 98.6965,
+      "rag": 2
+    },
+    {
+      "id": 361,
+      "city": "Decatur",
+      "amount": "$6.35",
+      "ratio": 68.8396,
+      "rag": 2
+    },
+    {
+      "id": 362,
+      "city": "Yingchun",
+      "amount": "$7.89",
+      "ratio": 76.976,
+      "rag": 3
+    },
+    {
+      "id": 363,
+      "city": "Valparaíso",
+      "amount": "$6.89",
+      "ratio": 73.1522,
+      "rag": 3
+    },
+    {
+      "id": 364,
+      "city": "Gaxung",
+      "amount": "$6.40",
+      "ratio": 85.6608,
+      "rag": 2
+    },
+    {
+      "id": 365,
+      "city": "Yëlkino",
+      "amount": "$2.97",
+      "ratio": 79.1325,
+      "rag": 3
+    },
+    {
+      "id": 366,
+      "city": "Tianzhu",
+      "amount": "$4.70",
+      "ratio": 13.542,
+      "rag": 2
+    },
+    {
+      "id": 367,
+      "city": "Narach",
+      "amount": "$3.05",
+      "ratio": 69.0979,
+      "rag": 1
+    },
+    {
+      "id": 368,
+      "city": "Villa Alemana",
+      "amount": "$0.55",
+      "ratio": 53.3631,
+      "rag": 1
+    },
+    {
+      "id": 369,
+      "city": "Chynów",
+      "amount": "$3.06",
+      "ratio": 41.7963,
+      "rag": 1
+    },
+    {
+      "id": 370,
+      "city": "Liandu",
+      "amount": "$0.29",
+      "ratio": 64.1852,
+      "rag": 1
+    },
+    {
+      "id": 371,
+      "city": "Lewolen",
+      "amount": "$0.97",
+      "ratio": 40.1978,
+      "rag": 1
+    },
+    {
+      "id": 372,
+      "city": "Jargalant",
+      "amount": "$1.74",
+      "ratio": 48.376,
+      "rag": 3
+    },
+    {
+      "id": 373,
+      "city": "Salento",
+      "amount": "$8.28",
+      "ratio": 64.3112,
+      "rag": 2
+    },
+    {
+      "id": 374,
+      "city": "Dongshan",
+      "amount": "$8.95",
+      "ratio": 59.9903,
+      "rag": 2
+    },
+    {
+      "id": 375,
+      "city": "Minh Lương",
+      "amount": "$9.37",
+      "ratio": 27.7842,
+      "rag": 1
+    },
+    {
+      "id": 376,
+      "city": "Noginsk",
+      "amount": "$2.32",
+      "ratio": 57.0077,
+      "rag": 1
+    },
+    {
+      "id": 377,
+      "city": "‘Uqayribāt",
+      "amount": "$5.21",
+      "ratio": 30.7131,
+      "rag": 2
+    },
+    {
+      "id": 378,
+      "city": "Nangka",
+      "amount": "$6.55",
+      "ratio": 83.8076,
+      "rag": 1
+    },
+    {
+      "id": 379,
+      "city": "Besançon",
+      "amount": "$0.41",
+      "ratio": 68.9209,
+      "rag": 2
+    },
+    {
+      "id": 380,
+      "city": "Sefrou",
+      "amount": "$7.54",
+      "ratio": 83.7712,
+      "rag": 2
+    },
+    {
+      "id": 381,
+      "city": "Chengbei",
+      "amount": "$7.41",
+      "ratio": 2.7229,
+      "rag": 3
+    },
+    {
+      "id": 382,
+      "city": "Trondheim",
+      "amount": "$1.42",
+      "ratio": 86.6034,
+      "rag": 2
+    },
+    {
+      "id": 383,
+      "city": "Manganitu",
+      "amount": "$1.93",
+      "ratio": 37.3561,
+      "rag": 2
+    },
+    {
+      "id": 384,
+      "city": "Gongdao",
+      "amount": "$5.67",
+      "ratio": 42.4614,
+      "rag": 1
+    },
+    {
+      "id": 385,
+      "city": "Shunhe",
+      "amount": "$1.42",
+      "ratio": 28.145,
+      "rag": 3
+    },
+    {
+      "id": 386,
+      "city": "Árta",
+      "amount": "$2.85",
+      "ratio": 72.2342,
+      "rag": 3
+    },
+    {
+      "id": 387,
+      "city": "Thị Trấn Yên Ninh",
+      "amount": "$3.08",
+      "ratio": 81.4264,
+      "rag": 3
+    },
+    {
+      "id": 388,
+      "city": "Nantes",
+      "amount": "$0.27",
+      "ratio": 42.7979,
+      "rag": 3
+    },
+    {
+      "id": 389,
+      "city": "Kobarid",
+      "amount": "$4.90",
+      "ratio": 57.6955,
+      "rag": 1
+    },
+    {
+      "id": 390,
+      "city": "Kentongan",
+      "amount": "$8.07",
+      "ratio": 39.4108,
+      "rag": 2
+    },
+    {
+      "id": 391,
+      "city": "Inayauan",
+      "amount": "$6.97",
+      "ratio": 7.4684,
+      "rag": 3
+    },
+    {
+      "id": 392,
+      "city": "Liuzu",
+      "amount": "$6.18",
+      "ratio": 28.6447,
+      "rag": 2
+    },
+    {
+      "id": 393,
+      "city": "Maindang",
+      "amount": "$8.48",
+      "ratio": 44.7293,
+      "rag": 1
+    },
+    {
+      "id": 394,
+      "city": "Naqadeh",
+      "amount": "$6.96",
+      "ratio": 86.6114,
+      "rag": 2
+    },
+    {
+      "id": 395,
+      "city": "Radzyń Chełmiński",
+      "amount": "$9.10",
+      "ratio": 33.9561,
+      "rag": 2
+    },
+    {
+      "id": 396,
+      "city": "Novoukrainskiy",
+      "amount": "$2.54",
+      "ratio": 18.8597,
+      "rag": 1
+    },
+    {
+      "id": 397,
+      "city": "Qiaogu",
+      "amount": "$4.38",
+      "ratio": 92.8784,
+      "rag": 2
+    },
+    {
+      "id": 398,
+      "city": "Vyshniy Volochëk",
+      "amount": "$0.13",
+      "ratio": 57.0278,
+      "rag": 2
+    },
+    {
+      "id": 399,
+      "city": "Kembang",
+      "amount": "$4.27",
+      "ratio": 87.3705,
+      "rag": 3
+    },
+    {
+      "id": 400,
+      "city": "Langgapayung",
+      "amount": "$8.04",
+      "ratio": 51.2231,
+      "rag": 1
+    },
+    {
+      "id": 401,
+      "city": "Ojiya",
+      "amount": "$2.15",
+      "ratio": 45.2541,
+      "rag": 2
+    },
+    {
+      "id": 402,
+      "city": "Netishyn",
+      "amount": "$3.68",
+      "ratio": 60.0129,
+      "rag": 3
+    },
+    {
+      "id": 403,
+      "city": "São João da Barra",
+      "amount": "$6.29",
+      "ratio": 54.5125,
+      "rag": 2
+    },
+    {
+      "id": 404,
+      "city": "Chlewiska",
+      "amount": "$8.56",
+      "ratio": 21.2083,
+      "rag": 3
+    },
+    {
+      "id": 405,
+      "city": "Andkhōy",
+      "amount": "$7.94",
+      "ratio": 80.5072,
+      "rag": 2
+    },
+    {
+      "id": 406,
+      "city": "R S",
+      "amount": "$6.30",
+      "ratio": 51.1431,
+      "rag": 1
+    },
+    {
+      "id": 407,
+      "city": "Corpus Christi",
+      "amount": "$7.61",
+      "ratio": 22.538,
+      "rag": 1
+    },
+    {
+      "id": 408,
+      "city": "Vardablur",
+      "amount": "$6.94",
+      "ratio": 64.7766,
+      "rag": 3
+    },
+    {
+      "id": 409,
+      "city": "Erdaobaihe",
+      "amount": "$4.20",
+      "ratio": 31.0805,
+      "rag": 2
+    },
+    {
+      "id": 410,
+      "city": "Klyetsk",
+      "amount": "$6.91",
+      "ratio": 1.0081,
+      "rag": 2
+    },
+    {
+      "id": 411,
+      "city": "Baoyang",
+      "amount": "$9.54",
+      "ratio": 87.9491,
+      "rag": 3
+    },
+    {
+      "id": 412,
+      "city": "Fruitvale",
+      "amount": "$1.31",
+      "ratio": 43.0878,
+      "rag": 2
+    },
+    {
+      "id": 413,
+      "city": "Filiatrá",
+      "amount": "$6.31",
+      "ratio": 95.1313,
+      "rag": 2
+    },
+    {
+      "id": 414,
+      "city": "Levallois-Perret",
+      "amount": "$6.98",
+      "ratio": 78.5825,
+      "rag": 3
+    },
+    {
+      "id": 415,
+      "city": "Gorzyce",
+      "amount": "$4.07",
+      "ratio": 51.1835,
+      "rag": 2
+    },
+    {
+      "id": 416,
+      "city": "Banyliv",
+      "amount": "$0.11",
+      "ratio": 74.9092,
+      "rag": 1
+    },
+    {
+      "id": 417,
+      "city": "Kristianstad",
+      "amount": "$0.54",
+      "ratio": 9.5718,
+      "rag": 1
+    },
+    {
+      "id": 418,
+      "city": "Taverny",
+      "amount": "$8.60",
+      "ratio": 2.0991,
+      "rag": 3
+    },
+    {
+      "id": 419,
+      "city": "Terpsithéa",
+      "amount": "$0.69",
+      "ratio": 25.8433,
+      "rag": 1
+    },
+    {
+      "id": 420,
+      "city": "La Laja",
+      "amount": "$3.61",
+      "ratio": 15.2867,
+      "rag": 2
+    },
+    {
+      "id": 421,
+      "city": "Catayauan",
+      "amount": "$4.70",
+      "ratio": 79.231,
+      "rag": 3
+    },
+    {
+      "id": 422,
+      "city": "Tobatí",
+      "amount": "$0.51",
+      "ratio": 8.9734,
+      "rag": 2
+    },
+    {
+      "id": 423,
+      "city": "Nashville",
+      "amount": "$8.13",
+      "ratio": 93.4649,
+      "rag": 2
+    },
+    {
+      "id": 424,
+      "city": "Yaroslavskaya",
+      "amount": "$1.16",
+      "ratio": 84.0082,
+      "rag": 3
+    },
+    {
+      "id": 425,
+      "city": "Xiaoshan",
+      "amount": "$5.87",
+      "ratio": 19.7567,
+      "rag": 2
+    },
+    {
+      "id": 426,
+      "city": "Rumbek",
+      "amount": "$4.70",
+      "ratio": 1.3431,
+      "rag": 3
+    },
+    {
+      "id": 427,
+      "city": "Río",
+      "amount": "$4.77",
+      "ratio": 75.3962,
+      "rag": 3
+    },
+    {
+      "id": 428,
+      "city": "Boujniba",
+      "amount": "$7.79",
+      "ratio": 61.6346,
+      "rag": 1
+    },
+    {
+      "id": 429,
+      "city": "Lansing",
+      "amount": "$0.69",
+      "ratio": 56.3367,
+      "rag": 1
+    },
+    {
+      "id": 430,
+      "city": "Inderka",
+      "amount": "$5.23",
+      "ratio": 86.876,
+      "rag": 3
+    },
+    {
+      "id": 431,
+      "city": "Atbasar",
+      "amount": "$9.73",
+      "ratio": 74.9384,
+      "rag": 1
+    },
+    {
+      "id": 432,
+      "city": "Whittier",
+      "amount": "$9.29",
+      "ratio": 99.3944,
+      "rag": 3
+    },
+    {
+      "id": 433,
+      "city": "Dębe Wielkie",
+      "amount": "$9.72",
+      "ratio": 68.091,
+      "rag": 1
+    },
+    {
+      "id": 434,
+      "city": "Guaçuí",
+      "amount": "$2.19",
+      "ratio": 34.6246,
+      "rag": 3
+    },
+    {
+      "id": 435,
+      "city": "Bandaran",
+      "amount": "$1.77",
+      "ratio": 1.7188,
+      "rag": 3
+    },
+    {
+      "id": 436,
+      "city": "Dongkengkou",
+      "amount": "$1.12",
+      "ratio": 57.8492,
+      "rag": 2
+    },
+    {
+      "id": 437,
+      "city": "Upper San Mateo",
+      "amount": "$7.46",
+      "ratio": 55.933,
+      "rag": 2
+    },
+    {
+      "id": 438,
+      "city": "Hetang",
+      "amount": "$9.72",
+      "ratio": 15.5473,
+      "rag": 3
+    },
+    {
+      "id": 439,
+      "city": "Niort",
+      "amount": "$3.11",
+      "ratio": 55.2286,
+      "rag": 1
+    },
+    {
+      "id": 440,
+      "city": "Guinabsan",
+      "amount": "$5.25",
+      "ratio": 11.4678,
+      "rag": 3
+    },
+    {
+      "id": 441,
+      "city": "Sila",
+      "amount": "$4.94",
+      "ratio": 44.2758,
+      "rag": 3
+    },
+    {
+      "id": 442,
+      "city": "Cankuzo",
+      "amount": "$8.50",
+      "ratio": 79.9739,
+      "rag": 2
+    },
+    {
+      "id": 443,
+      "city": "Krasnosilka",
+      "amount": "$0.13",
+      "ratio": 79.0439,
+      "rag": 2
+    },
+    {
+      "id": 444,
+      "city": "Neiba",
+      "amount": "$6.21",
+      "ratio": 28.1256,
+      "rag": 2
+    },
+    {
+      "id": 445,
+      "city": "Quinta",
+      "amount": "$2.73",
+      "ratio": 44.4357,
+      "rag": 1
+    },
+    {
+      "id": 446,
+      "city": "Polowat",
+      "amount": "$0.04",
+      "ratio": 40.99,
+      "rag": 2
+    },
+    {
+      "id": 447,
+      "city": "Debrecen",
+      "amount": "$0.21",
+      "ratio": 12.3886,
+      "rag": 1
+    },
+    {
+      "id": 448,
+      "city": "Pionerskiy",
+      "amount": "$9.70",
+      "ratio": 11.7415,
+      "rag": 2
+    },
+    {
+      "id": 449,
+      "city": "Nkpor",
+      "amount": "$4.26",
+      "ratio": 36.2751,
+      "rag": 1
+    },
+    {
+      "id": 450,
+      "city": "La Oroya",
+      "amount": "$6.22",
+      "ratio": 23.6438,
+      "rag": 3
+    },
+    {
+      "id": 451,
+      "city": "General Guido",
+      "amount": "$9.90",
+      "ratio": 43.4628,
+      "rag": 2
+    },
+    {
+      "id": 452,
+      "city": "Shilibu",
+      "amount": "$8.48",
+      "ratio": 94.496,
+      "rag": 1
+    },
+    {
+      "id": 453,
+      "city": "Linxi",
+      "amount": "$8.50",
+      "ratio": 23.3683,
+      "rag": 2
+    },
+    {
+      "id": 454,
+      "city": "Aleksotas",
+      "amount": "$4.98",
+      "ratio": 76.8459,
+      "rag": 3
+    },
+    {
+      "id": 455,
+      "city": "Long Beluah",
+      "amount": "$9.21",
+      "ratio": 53.0587,
+      "rag": 1
+    },
+    {
+      "id": 456,
+      "city": "Umi",
+      "amount": "$2.50",
+      "ratio": 42.6458,
+      "rag": 1
+    },
+    {
+      "id": 457,
+      "city": "Lyubeshiv",
+      "amount": "$0.84",
+      "ratio": 27.3978,
+      "rag": 1
+    },
+    {
+      "id": 458,
+      "city": "Cortez",
+      "amount": "$0.12",
+      "ratio": 53.5738,
+      "rag": 3
+    },
+    {
+      "id": 459,
+      "city": "Galyugayevskaya",
+      "amount": "$3.93",
+      "ratio": 93.7043,
+      "rag": 1
+    },
+    {
+      "id": 460,
+      "city": "Tanjung Raja",
+      "amount": "$6.09",
+      "ratio": 58.5154,
+      "rag": 3
+    },
+    {
+      "id": 461,
+      "city": "Tiztoutine",
+      "amount": "$0.42",
+      "ratio": 40.4145,
+      "rag": 2
+    },
+    {
+      "id": 462,
+      "city": "Caicara",
+      "amount": "$6.47",
+      "ratio": 92.9971,
+      "rag": 2
+    },
+    {
+      "id": 463,
+      "city": "Voyinka",
+      "amount": "$4.28",
+      "ratio": 56.8756,
+      "rag": 2
+    },
+    {
+      "id": 464,
+      "city": "Tena",
+      "amount": "$9.19",
+      "ratio": 31.2929,
+      "rag": 1
+    },
+    {
+      "id": 465,
+      "city": "Zhenjiang",
+      "amount": "$3.98",
+      "ratio": 44.2767,
+      "rag": 1
+    },
+    {
+      "id": 466,
+      "city": "Xishui",
+      "amount": "$8.45",
+      "ratio": 50.3291,
+      "rag": 1
+    },
+    {
+      "id": 467,
+      "city": "Karakul’",
+      "amount": "$2.57",
+      "ratio": 63.0425,
+      "rag": 2
+    },
+    {
+      "id": 468,
+      "city": "Pamupukan",
+      "amount": "$4.74",
+      "ratio": 52.2844,
+      "rag": 1
+    },
+    {
+      "id": 469,
+      "city": "Khao Wong",
+      "amount": "$1.17",
+      "ratio": 18.9858,
+      "rag": 2
+    },
+    {
+      "id": 470,
+      "city": "San Ignacio",
+      "amount": "$8.00",
+      "ratio": 86.2718,
+      "rag": 1
+    },
+    {
+      "id": 471,
+      "city": "Ube",
+      "amount": "$0.32",
+      "ratio": 44.9469,
+      "rag": 1
+    },
+    {
+      "id": 472,
+      "city": "Turtas",
+      "amount": "$9.23",
+      "ratio": 59.2509,
+      "rag": 1
+    },
+    {
+      "id": 473,
+      "city": "Tsubame",
+      "amount": "$0.41",
+      "ratio": 61.8808,
+      "rag": 3
+    },
+    {
+      "id": 474,
+      "city": "Caspisapa",
+      "amount": "$9.33",
+      "ratio": 4.0077,
+      "rag": 2
+    },
+    {
+      "id": 475,
+      "city": "Sigaboy",
+      "amount": "$6.31",
+      "ratio": 72.8865,
+      "rag": 1
+    },
+    {
+      "id": 476,
+      "city": "Kamo",
+      "amount": "$2.43",
+      "ratio": 41.2361,
+      "rag": 1
+    },
+    {
+      "id": 477,
+      "city": "Rulenge",
+      "amount": "$4.23",
+      "ratio": 9.5145,
+      "rag": 2
+    },
+    {
+      "id": 478,
+      "city": "Fuzhiping",
+      "amount": "$2.77",
+      "ratio": 75.1036,
+      "rag": 2
+    },
+    {
+      "id": 479,
+      "city": "Bandhagen",
+      "amount": "$2.64",
+      "ratio": 95.5323,
+      "rag": 3
+    },
+    {
+      "id": 480,
+      "city": "Trubchevsk",
+      "amount": "$0.75",
+      "ratio": 59.1261,
+      "rag": 2
+    },
+    {
+      "id": 481,
+      "city": "Karangtengah",
+      "amount": "$9.29",
+      "ratio": 48.05,
+      "rag": 1
+    },
+    {
+      "id": 482,
+      "city": "Jatake",
+      "amount": "$9.61",
+      "ratio": 85.2921,
+      "rag": 1
+    },
+    {
+      "id": 483,
+      "city": "Tianhu",
+      "amount": "$8.01",
+      "ratio": 9.1055,
+      "rag": 1
+    },
+    {
+      "id": 484,
+      "city": "Leping",
+      "amount": "$4.84",
+      "ratio": 18.2707,
+      "rag": 3
+    },
+    {
+      "id": 485,
+      "city": "Santa Helena de Goiás",
+      "amount": "$3.40",
+      "ratio": 56.4945,
+      "rag": 2
+    },
+    {
+      "id": 486,
+      "city": "Ankazondandy",
+      "amount": "$1.60",
+      "ratio": 20.5262,
+      "rag": 2
+    },
+    {
+      "id": 487,
+      "city": "Sydney",
+      "amount": "$8.37",
+      "ratio": 47.6334,
+      "rag": 3
+    },
+    {
+      "id": 488,
+      "city": "Arcossó",
+      "amount": "$4.57",
+      "ratio": 69.4443,
+      "rag": 1
+    },
+    {
+      "id": 489,
+      "city": "Talitsy",
+      "amount": "$9.36",
+      "ratio": 15.7725,
+      "rag": 2
+    },
+    {
+      "id": 490,
+      "city": "Wudian",
+      "amount": "$8.71",
+      "ratio": 30.44,
+      "rag": 3
+    },
+    {
+      "id": 491,
+      "city": "Kuala Lumpur",
+      "amount": "$8.72",
+      "ratio": 56.3638,
+      "rag": 3
+    },
+    {
+      "id": 492,
+      "city": "Yukuriawat",
+      "amount": "$8.83",
+      "ratio": 93.0572,
+      "rag": 1
+    },
+    {
+      "id": 493,
+      "city": "Dobra",
+      "amount": "$0.89",
+      "ratio": 97.7863,
+      "rag": 3
+    },
+    {
+      "id": 494,
+      "city": "Pohbango",
+      "amount": "$7.31",
+      "ratio": 47.797,
+      "rag": 1
+    },
+    {
+      "id": 495,
+      "city": "Sanjō",
+      "amount": "$0.99",
+      "ratio": 3.8607,
+      "rag": 1
+    },
+    {
+      "id": 496,
+      "city": "Nagrak",
+      "amount": "$5.16",
+      "ratio": 12.6527,
+      "rag": 3
+    },
+    {
+      "id": 497,
+      "city": "Namora",
+      "amount": "$2.43",
+      "ratio": 37.1636,
+      "rag": 2
+    },
+    {
+      "id": 498,
+      "city": "Yangxi",
+      "amount": "$9.63",
+      "ratio": 93.0562,
+      "rag": 3
+    },
+    {
+      "id": 499,
+      "city": "Przemków",
+      "amount": "$4.78",
+      "ratio": 27.0875,
+      "rag": 3
+    },
+    {
+      "id": 500,
+      "city": "Sovetsk",
+      "amount": "$3.57",
+      "ratio": 25.1756,
+      "rag": 1
+    },
+    {
+      "id": 501,
+      "city": "Skalánion",
+      "amount": "$5.01",
+      "ratio": 57.944,
+      "rag": 2
+    },
+    {
+      "id": 502,
+      "city": "Mozirje",
+      "amount": "$2.93",
+      "ratio": 28.9482,
+      "rag": 1
+    },
+    {
+      "id": 503,
+      "city": "Guadalupe",
+      "amount": "$3.37",
+      "ratio": 44.3262,
+      "rag": 2
+    },
+    {
+      "id": 504,
+      "city": "Toubao",
+      "amount": "$2.22",
+      "ratio": 64.4872,
+      "rag": 1
+    },
+    {
+      "id": 505,
+      "city": "Měcholupy",
+      "amount": "$6.23",
+      "ratio": 97.3064,
+      "rag": 2
+    },
+    {
+      "id": 506,
+      "city": "Longtanhe",
+      "amount": "$8.81",
+      "ratio": 57.9396,
+      "rag": 1
+    },
+    {
+      "id": 507,
+      "city": "Quivilla",
+      "amount": "$4.18",
+      "ratio": 52.4485,
+      "rag": 1
+    },
+    {
+      "id": 508,
+      "city": "Ipauçu",
+      "amount": "$9.37",
+      "ratio": 29.5721,
+      "rag": 2
+    },
+    {
+      "id": 509,
+      "city": "Phú Thái",
+      "amount": "$8.62",
+      "ratio": 35.5189,
+      "rag": 1
+    },
+    {
+      "id": 510,
+      "city": "Phú Vang",
+      "amount": "$6.62",
+      "ratio": 17.5401,
+      "rag": 1
+    },
+    {
+      "id": 511,
+      "city": "Hebi",
+      "amount": "$5.37",
+      "ratio": 61.3082,
+      "rag": 3
+    },
+    {
+      "id": 512,
+      "city": "Pentéli",
+      "amount": "$9.92",
+      "ratio": 92.7333,
+      "rag": 2
+    },
+    {
+      "id": 513,
+      "city": "Huilongshan",
+      "amount": "$4.62",
+      "ratio": 63.2273,
+      "rag": 1
+    },
+    {
+      "id": 514,
+      "city": "Jiangbei",
+      "amount": "$5.49",
+      "ratio": 88.4803,
+      "rag": 1
+    },
+    {
+      "id": 515,
+      "city": "Ḩalwān",
+      "amount": "$2.46",
+      "ratio": 49.5542,
+      "rag": 2
+    },
+    {
+      "id": 516,
+      "city": "Patrol",
+      "amount": "$4.26",
+      "ratio": 99.4228,
+      "rag": 1
+    },
+    {
+      "id": 517,
+      "city": "Patrída",
+      "amount": "$3.53",
+      "ratio": 98.2029,
+      "rag": 2
+    },
+    {
+      "id": 518,
+      "city": "Zigong",
+      "amount": "$6.51",
+      "ratio": 45.0351,
+      "rag": 1
+    },
+    {
+      "id": 519,
+      "city": "Handaqi",
+      "amount": "$1.58",
+      "ratio": 34.8271,
+      "rag": 3
+    },
+    {
+      "id": 520,
+      "city": "Angoulême",
+      "amount": "$0.49",
+      "ratio": 4.116,
+      "rag": 1
+    },
+    {
+      "id": 521,
+      "city": "Shishi",
+      "amount": "$1.61",
+      "ratio": 73.3277,
+      "rag": 1
+    },
+    {
+      "id": 522,
+      "city": "Taling",
+      "amount": "$2.41",
+      "ratio": 44.0516,
+      "rag": 2
+    },
+    {
+      "id": 523,
+      "city": "Chongmin",
+      "amount": "$3.52",
+      "ratio": 10.0511,
+      "rag": 3
+    },
+    {
+      "id": 524,
+      "city": "Åstorp",
+      "amount": "$5.18",
+      "ratio": 78.8404,
+      "rag": 2
+    },
+    {
+      "id": 525,
+      "city": "Hankha",
+      "amount": "$6.77",
+      "ratio": 35.7353,
+      "rag": 2
+    },
+    {
+      "id": 526,
+      "city": "Sacramento",
+      "amount": "$3.72",
+      "ratio": 38.6288,
+      "rag": 1
+    },
+    {
+      "id": 527,
+      "city": "Tamarindo",
+      "amount": "$2.14",
+      "ratio": 3.6763,
+      "rag": 2
+    },
+    {
+      "id": 528,
+      "city": "Jiefangyan",
+      "amount": "$5.09",
+      "ratio": 34.2326,
+      "rag": 3
+    },
+    {
+      "id": 529,
+      "city": "Çlirim",
+      "amount": "$2.28",
+      "ratio": 25.2086,
+      "rag": 2
+    },
+    {
+      "id": 530,
+      "city": "Tuy Phước",
+      "amount": "$1.38",
+      "ratio": 18.5278,
+      "rag": 2
+    },
+    {
+      "id": 531,
+      "city": "Kadoma",
+      "amount": "$1.24",
+      "ratio": 76.7941,
+      "rag": 3
+    },
+    {
+      "id": 532,
+      "city": "Nzérékoré",
+      "amount": "$0.56",
+      "ratio": 92.036,
+      "rag": 2
+    },
+    {
+      "id": 533,
+      "city": "Mukařov",
+      "amount": "$9.73",
+      "ratio": 72.2471,
+      "rag": 1
+    },
+    {
+      "id": 534,
+      "city": "Zakliczyn",
+      "amount": "$1.15",
+      "ratio": 38.1298,
+      "rag": 3
+    },
+    {
+      "id": 535,
+      "city": "Nacaome",
+      "amount": "$5.41",
+      "ratio": 42.6395,
+      "rag": 2
+    },
+    {
+      "id": 536,
+      "city": "Bamako",
+      "amount": "$2.60",
+      "ratio": 66.8293,
+      "rag": 1
+    },
+    {
+      "id": 537,
+      "city": "Chapadinha",
+      "amount": "$6.41",
+      "ratio": 12.0987,
+      "rag": 3
+    },
+    {
+      "id": 538,
+      "city": "Yunlong",
+      "amount": "$7.85",
+      "ratio": 33.9781,
+      "rag": 1
+    },
+    {
+      "id": 539,
+      "city": "Mafa",
+      "amount": "$8.80",
+      "ratio": 70.9618,
+      "rag": 1
+    },
+    {
+      "id": 540,
+      "city": "Mullagh",
+      "amount": "$6.41",
+      "ratio": 18.7769,
+      "rag": 2
+    },
+    {
+      "id": 541,
+      "city": "Shimanovsk",
+      "amount": "$6.96",
+      "ratio": 61.0729,
+      "rag": 2
+    },
+    {
+      "id": 542,
+      "city": "Añelo",
+      "amount": "$7.34",
+      "ratio": 73.9899,
+      "rag": 1
+    },
+    {
+      "id": 543,
+      "city": "Łomazy",
+      "amount": "$9.00",
+      "ratio": 42.076,
+      "rag": 3
+    },
+    {
+      "id": 544,
+      "city": "Huangshan",
+      "amount": "$0.67",
+      "ratio": 1.8209,
+      "rag": 1
+    },
+    {
+      "id": 545,
+      "city": "Umeå",
+      "amount": "$1.92",
+      "ratio": 96.5103,
+      "rag": 3
+    },
+    {
+      "id": 546,
+      "city": "Bei",
+      "amount": "$5.42",
+      "ratio": 72.9054,
+      "rag": 1
+    },
+    {
+      "id": 547,
+      "city": "Jablonec nad Jizerou",
+      "amount": "$7.30",
+      "ratio": 81.8973,
+      "rag": 3
+    },
+    {
+      "id": 548,
+      "city": "San Lorenzo",
+      "amount": "$4.67",
+      "ratio": 31.3919,
+      "rag": 3
+    },
+    {
+      "id": 549,
+      "city": "Hougaoshizhuang",
+      "amount": "$3.49",
+      "ratio": 1.6105,
+      "rag": 3
+    },
+    {
+      "id": 550,
+      "city": "Bigaan",
+      "amount": "$1.54",
+      "ratio": 41.4656,
+      "rag": 1
+    },
+    {
+      "id": 551,
+      "city": "Birmingham",
+      "amount": "$7.42",
+      "ratio": 96.863,
+      "rag": 1
+    },
+    {
+      "id": 552,
+      "city": "Shentong",
+      "amount": "$1.61",
+      "ratio": 62.5864,
+      "rag": 3
+    },
+    {
+      "id": 553,
+      "city": "Bezerros",
+      "amount": "$2.83",
+      "ratio": 78.4126,
+      "rag": 3
+    },
+    {
+      "id": 554,
+      "city": "Mosal’sk",
+      "amount": "$0.35",
+      "ratio": 74.3485,
+      "rag": 1
+    },
+    {
+      "id": 555,
+      "city": "Fram",
+      "amount": "$2.50",
+      "ratio": 77.3629,
+      "rag": 2
+    },
+    {
+      "id": 556,
+      "city": "Al Qārah",
+      "amount": "$8.73",
+      "ratio": 4.8291,
+      "rag": 2
+    },
+    {
+      "id": 557,
+      "city": "Rokytnice nad Jizerou",
+      "amount": "$2.93",
+      "ratio": 41.2585,
+      "rag": 3
+    },
+    {
+      "id": 558,
+      "city": "Cikayas",
+      "amount": "$0.11",
+      "ratio": 34.9796,
+      "rag": 3
+    },
+    {
+      "id": 559,
+      "city": "Dualing",
+      "amount": "$6.10",
+      "ratio": 62.2061,
+      "rag": 2
+    },
+    {
+      "id": 560,
+      "city": "Wates",
+      "amount": "$4.36",
+      "ratio": 19.5715,
+      "rag": 3
+    },
+    {
+      "id": 561,
+      "city": "Khvastovichi",
+      "amount": "$8.86",
+      "ratio": 70.9486,
+      "rag": 1
+    },
+    {
+      "id": 562,
+      "city": "Manzil Bū Zalafah",
+      "amount": "$3.96",
+      "ratio": 72.7289,
+      "rag": 3
+    },
+    {
+      "id": 563,
+      "city": "Pilaya",
+      "amount": "$9.82",
+      "ratio": 40.6839,
+      "rag": 1
+    },
+    {
+      "id": 564,
+      "city": "Dayong",
+      "amount": "$9.60",
+      "ratio": 46.7283,
+      "rag": 3
+    },
+    {
+      "id": 565,
+      "city": "Bodĭ",
+      "amount": "$6.07",
+      "ratio": 99.8188,
+      "rag": 3
+    },
+    {
+      "id": 566,
+      "city": "Grindavík",
+      "amount": "$5.66",
+      "ratio": 30.7901,
+      "rag": 3
+    },
+    {
+      "id": 567,
+      "city": "Labo",
+      "amount": "$5.69",
+      "ratio": 25.8697,
+      "rag": 3
+    },
+    {
+      "id": 568,
+      "city": "Karangpawitan",
+      "amount": "$9.10",
+      "ratio": 8.1218,
+      "rag": 2
+    },
+    {
+      "id": 569,
+      "city": "Xilian",
+      "amount": "$9.43",
+      "ratio": 58.2705,
+      "rag": 3
+    },
+    {
+      "id": 570,
+      "city": "Grenoble",
+      "amount": "$5.47",
+      "ratio": 24.6675,
+      "rag": 2
+    },
+    {
+      "id": 571,
+      "city": "Pondokunyur",
+      "amount": "$2.69",
+      "ratio": 7.8561,
+      "rag": 3
+    },
+    {
+      "id": 572,
+      "city": "Columbia",
+      "amount": "$5.54",
+      "ratio": 28.0705,
+      "rag": 3
+    },
+    {
+      "id": 573,
+      "city": "Shiren",
+      "amount": "$1.47",
+      "ratio": 36.5893,
+      "rag": 2
+    },
+    {
+      "id": 574,
+      "city": "Karukh",
+      "amount": "$6.26",
+      "ratio": 11.2423,
+      "rag": 1
+    },
+    {
+      "id": 575,
+      "city": "Huangludian",
+      "amount": "$7.31",
+      "ratio": 2.9137,
+      "rag": 3
+    },
+    {
+      "id": 576,
+      "city": "Farnham",
+      "amount": "$1.25",
+      "ratio": 31.9304,
+      "rag": 2
+    },
+    {
+      "id": 577,
+      "city": "Asyūţ",
+      "amount": "$6.86",
+      "ratio": 63.664,
+      "rag": 1
+    },
+    {
+      "id": 578,
+      "city": "Rochefort",
+      "amount": "$5.83",
+      "ratio": 24.5286,
+      "rag": 2
+    },
+    {
+      "id": 579,
+      "city": "Piedade",
+      "amount": "$2.99",
+      "ratio": 91.4362,
+      "rag": 1
+    },
+    {
+      "id": 580,
+      "city": "Bastak",
+      "amount": "$5.32",
+      "ratio": 89.2063,
+      "rag": 1
+    },
+    {
+      "id": 581,
+      "city": "Xiaozhen",
+      "amount": "$1.17",
+      "ratio": 79.4824,
+      "rag": 3
+    },
+    {
+      "id": 582,
+      "city": "Tegalrejo",
+      "amount": "$6.85",
+      "ratio": 20.1114,
+      "rag": 1
+    },
+    {
+      "id": 583,
+      "city": "Binagadi",
+      "amount": "$3.59",
+      "ratio": 32.2273,
+      "rag": 1
+    },
+    {
+      "id": 584,
+      "city": "Manay",
+      "amount": "$7.34",
+      "ratio": 64.6241,
+      "rag": 3
+    },
+    {
+      "id": 585,
+      "city": "Laohekou",
+      "amount": "$5.84",
+      "ratio": 90.9349,
+      "rag": 3
+    },
+    {
+      "id": 586,
+      "city": "Longtanping",
+      "amount": "$8.69",
+      "ratio": 20.9569,
+      "rag": 3
+    },
+    {
+      "id": 587,
+      "city": "Pingdong",
+      "amount": "$6.33",
+      "ratio": 61.4516,
+      "rag": 1
+    },
+    {
+      "id": 588,
+      "city": "Xinan",
+      "amount": "$4.08",
+      "ratio": 36.8008,
+      "rag": 3
+    },
+    {
+      "id": 589,
+      "city": "La Concepcion",
+      "amount": "$7.22",
+      "ratio": 86.8971,
+      "rag": 3
+    },
+    {
+      "id": 590,
+      "city": "Nyanza",
+      "amount": "$3.28",
+      "ratio": 31.6164,
+      "rag": 3
+    },
+    {
+      "id": 591,
+      "city": "Lucija",
+      "amount": "$2.95",
+      "ratio": 46.7976,
+      "rag": 2
+    },
+    {
+      "id": 592,
+      "city": "Santiago de María",
+      "amount": "$8.90",
+      "ratio": 62.0893,
+      "rag": 3
+    },
+    {
+      "id": 593,
+      "city": "Lirung",
+      "amount": "$4.98",
+      "ratio": 58.0668,
+      "rag": 3
+    },
+    {
+      "id": 594,
+      "city": "La Hacienda",
+      "amount": "$8.54",
+      "ratio": 6.9653,
+      "rag": 2
+    },
+    {
+      "id": 595,
+      "city": "Mar del Plata",
+      "amount": "$1.58",
+      "ratio": 50.6885,
+      "rag": 3
+    },
+    {
+      "id": 596,
+      "city": "Yelan’-Kolenovskiy",
+      "amount": "$9.25",
+      "ratio": 34.5648,
+      "rag": 2
+    },
+    {
+      "id": 597,
+      "city": "Buenavista",
+      "amount": "$9.26",
+      "ratio": 27.2726,
+      "rag": 2
+    },
+    {
+      "id": 598,
+      "city": "La Ferté-Bernard",
+      "amount": "$4.60",
+      "ratio": 98.5298,
+      "rag": 1
+    },
+    {
+      "id": 599,
+      "city": "Mlanggeng",
+      "amount": "$4.03",
+      "ratio": 3.8942,
+      "rag": 1
+    },
+    {
+      "id": 600,
+      "city": "Karangdalam",
+      "amount": "$2.53",
+      "ratio": 5.5362,
+      "rag": 3
+    },
+    {
+      "id": 601,
+      "city": "Banda Layung",
+      "amount": "$0.29",
+      "ratio": 20.4489,
+      "rag": 2
+    },
+    {
+      "id": 602,
+      "city": "Poděbrady",
+      "amount": "$2.44",
+      "ratio": 20.1643,
+      "rag": 2
+    },
+    {
+      "id": 603,
+      "city": "Chengyang",
+      "amount": "$2.09",
+      "ratio": 28.5992,
+      "rag": 2
+    },
+    {
+      "id": 604,
+      "city": "Yiqian",
+      "amount": "$9.82",
+      "ratio": 44.1251,
+      "rag": 3
+    },
+    {
+      "id": 605,
+      "city": "Lugo",
+      "amount": "$6.07",
+      "ratio": 87.135,
+      "rag": 3
+    },
+    {
+      "id": 606,
+      "city": "Hwaseong-si",
+      "amount": "$4.66",
+      "ratio": 39.1701,
+      "rag": 1
+    },
+    {
+      "id": 607,
+      "city": "Chidian",
+      "amount": "$6.61",
+      "ratio": 63.6191,
+      "rag": 3
+    },
+    {
+      "id": 608,
+      "city": "Pushkino",
+      "amount": "$3.65",
+      "ratio": 92.1946,
+      "rag": 3
+    },
+    {
+      "id": 609,
+      "city": "Smolec",
+      "amount": "$9.64",
+      "ratio": 70.4666,
+      "rag": 1
+    },
+    {
+      "id": 610,
+      "city": "Guradog",
+      "amount": "$1.37",
+      "ratio": 50.3866,
+      "rag": 2
+    },
+    {
+      "id": 611,
+      "city": "Chyhyryn",
+      "amount": "$6.87",
+      "ratio": 22.2468,
+      "rag": 3
+    },
+    {
+      "id": 612,
+      "city": "Longxi",
+      "amount": "$9.89",
+      "ratio": 19.7241,
+      "rag": 3
+    },
+    {
+      "id": 613,
+      "city": "Saddina",
+      "amount": "$1.19",
+      "ratio": 70.6674,
+      "rag": 2
+    },
+    {
+      "id": 614,
+      "city": "Stare Kurowo",
+      "amount": "$0.42",
+      "ratio": 85.2918,
+      "rag": 3
+    },
+    {
+      "id": 615,
+      "city": "Cikondang",
+      "amount": "$6.61",
+      "ratio": 25.9045,
+      "rag": 1
+    },
+    {
+      "id": 616,
+      "city": "Batumi",
+      "amount": "$2.15",
+      "ratio": 25.6952,
+      "rag": 3
+    },
+    {
+      "id": 617,
+      "city": "Mooka",
+      "amount": "$9.99",
+      "ratio": 28.5122,
+      "rag": 1
+    },
+    {
+      "id": 618,
+      "city": "Tarbes",
+      "amount": "$6.98",
+      "ratio": 8.5635,
+      "rag": 1
+    },
+    {
+      "id": 619,
+      "city": "Stockholm",
+      "amount": "$8.50",
+      "ratio": 97.2458,
+      "rag": 2
+    },
+    {
+      "id": 620,
+      "city": "Uman’",
+      "amount": "$1.91",
+      "ratio": 9.4997,
+      "rag": 1
+    },
+    {
+      "id": 621,
+      "city": "Żelazków",
+      "amount": "$6.18",
+      "ratio": 50.8618,
+      "rag": 1
+    },
+    {
+      "id": 622,
+      "city": "Malanville",
+      "amount": "$6.03",
+      "ratio": 36.3764,
+      "rag": 2
+    },
+    {
+      "id": 623,
+      "city": "Sidrolândia",
+      "amount": "$5.50",
+      "ratio": 60.191,
+      "rag": 3
+    },
+    {
+      "id": 624,
+      "city": "Hongshan",
+      "amount": "$5.37",
+      "ratio": 26.2256,
+      "rag": 3
+    },
+    {
+      "id": 625,
+      "city": "Yinjiang",
+      "amount": "$7.37",
+      "ratio": 68.0914,
+      "rag": 2
+    },
+    {
+      "id": 626,
+      "city": "Yongfeng",
+      "amount": "$4.05",
+      "ratio": 48.2552,
+      "rag": 2
+    },
+    {
+      "id": 627,
+      "city": "Varva",
+      "amount": "$0.63",
+      "ratio": 78.2536,
+      "rag": 2
+    },
+    {
+      "id": 628,
+      "city": "Fenoarivo Be",
+      "amount": "$7.93",
+      "ratio": 83.0327,
+      "rag": 1
+    },
+    {
+      "id": 629,
+      "city": "München",
+      "amount": "$3.55",
+      "ratio": 5.4707,
+      "rag": 2
+    },
+    {
+      "id": 630,
+      "city": "Kukës",
+      "amount": "$5.07",
+      "ratio": 66.3798,
+      "rag": 2
+    },
+    {
+      "id": 631,
+      "city": "Shuizhai",
+      "amount": "$0.33",
+      "ratio": 75.1195,
+      "rag": 3
+    },
+    {
+      "id": 632,
+      "city": "Buhe",
+      "amount": "$0.68",
+      "ratio": 62.4394,
+      "rag": 2
+    },
+    {
+      "id": 633,
+      "city": "Emmaboda",
+      "amount": "$8.76",
+      "ratio": 35.5427,
+      "rag": 2
+    },
+    {
+      "id": 634,
+      "city": "San Rafael",
+      "amount": "$0.01",
+      "ratio": 47.717,
+      "rag": 3
+    },
+    {
+      "id": 635,
+      "city": "Paris 19",
+      "amount": "$5.26",
+      "ratio": 33.5106,
+      "rag": 3
+    },
+    {
+      "id": 636,
+      "city": "Biltine",
+      "amount": "$8.03",
+      "ratio": 66.2258,
+      "rag": 1
+    },
+    {
+      "id": 637,
+      "city": "‘Ubāl",
+      "amount": "$8.63",
+      "ratio": 86.5429,
+      "rag": 2
+    },
+    {
+      "id": 638,
+      "city": "Caldas das Taipas",
+      "amount": "$5.04",
+      "ratio": 61.253,
+      "rag": 3
+    },
+    {
+      "id": 639,
+      "city": "Aras-asan",
+      "amount": "$0.04",
+      "ratio": 28.3838,
+      "rag": 1
+    },
+    {
+      "id": 640,
+      "city": "Kristianstad",
+      "amount": "$1.09",
+      "ratio": 23.2812,
+      "rag": 3
+    },
+    {
+      "id": 641,
+      "city": "Yongyang",
+      "amount": "$8.25",
+      "ratio": 51.2334,
+      "rag": 1
+    },
+    {
+      "id": 642,
+      "city": "Upata",
+      "amount": "$0.99",
+      "ratio": 46.4717,
+      "rag": 1
+    },
+    {
+      "id": 643,
+      "city": "Amadora",
+      "amount": "$2.03",
+      "ratio": 94.2903,
+      "rag": 1
+    },
+    {
+      "id": 644,
+      "city": "Houston",
+      "amount": "$3.08",
+      "ratio": 37.0538,
+      "rag": 3
+    },
+    {
+      "id": 645,
+      "city": "Chkalov",
+      "amount": "$5.72",
+      "ratio": 27.5831,
+      "rag": 3
+    },
+    {
+      "id": 646,
+      "city": "Shetangpo",
+      "amount": "$0.55",
+      "ratio": 56.2415,
+      "rag": 3
+    },
+    {
+      "id": 647,
+      "city": "Novonikol’sk",
+      "amount": "$8.66",
+      "ratio": 35.3639,
+      "rag": 1
+    },
+    {
+      "id": 648,
+      "city": "Banho e Carvalhosa",
+      "amount": "$9.93",
+      "ratio": 84.4047,
+      "rag": 1
+    },
+    {
+      "id": 649,
+      "city": "Jiulong",
+      "amount": "$1.09",
+      "ratio": 30.3858,
+      "rag": 1
+    },
+    {
+      "id": 650,
+      "city": "Cojata",
+      "amount": "$8.77",
+      "ratio": 29.5405,
+      "rag": 2
+    },
+    {
+      "id": 651,
+      "city": "Xiangshi",
+      "amount": "$7.53",
+      "ratio": 60.3804,
+      "rag": 2
+    },
+    {
+      "id": 652,
+      "city": "Tapon",
+      "amount": "$9.67",
+      "ratio": 66.4933,
+      "rag": 2
+    },
+    {
+      "id": 653,
+      "city": "Mando",
+      "amount": "$5.28",
+      "ratio": 62.006,
+      "rag": 3
+    },
+    {
+      "id": 654,
+      "city": "Varser",
+      "amount": "$8.93",
+      "ratio": 50.4817,
+      "rag": 2
+    },
+    {
+      "id": 655,
+      "city": "Orange",
+      "amount": "$6.73",
+      "ratio": 86.4383,
+      "rag": 2
+    },
+    {
+      "id": 656,
+      "city": "Jirny",
+      "amount": "$9.20",
+      "ratio": 32.0111,
+      "rag": 2
+    },
+    {
+      "id": 657,
+      "city": "Yangliu",
+      "amount": "$2.11",
+      "ratio": 37.1765,
+      "rag": 1
+    },
+    {
+      "id": 658,
+      "city": "Nzeto",
+      "amount": "$3.26",
+      "ratio": 98.7442,
+      "rag": 2
+    },
+    {
+      "id": 659,
+      "city": "Jinxiu",
+      "amount": "$0.85",
+      "ratio": 99.4001,
+      "rag": 1
+    },
+    {
+      "id": 660,
+      "city": "Chociwel",
+      "amount": "$5.17",
+      "ratio": 2.4796,
+      "rag": 2
+    },
+    {
+      "id": 661,
+      "city": "Nizhnyaya Omka",
+      "amount": "$9.56",
+      "ratio": 63.2971,
+      "rag": 3
+    },
+    {
+      "id": 662,
+      "city": "Créteil",
+      "amount": "$5.50",
+      "ratio": 31.0447,
+      "rag": 1
+    },
+    {
+      "id": 663,
+      "city": "Pleven",
+      "amount": "$6.01",
+      "ratio": 92.169,
+      "rag": 3
+    },
+    {
+      "id": 664,
+      "city": "Masachapa",
+      "amount": "$4.04",
+      "ratio": 35.4724,
+      "rag": 3
+    },
+    {
+      "id": 665,
+      "city": "Pak Thong Chai",
+      "amount": "$3.90",
+      "ratio": 7.0388,
+      "rag": 1
+    },
+    {
+      "id": 666,
+      "city": "Yamaga",
+      "amount": "$6.85",
+      "ratio": 1.7825,
+      "rag": 1
+    },
+    {
+      "id": 667,
+      "city": "Danville",
+      "amount": "$7.03",
+      "ratio": 13.1839,
+      "rag": 1
+    },
+    {
+      "id": 668,
+      "city": "Fredericton",
+      "amount": "$6.48",
+      "ratio": 49.8418,
+      "rag": 3
+    },
+    {
+      "id": 669,
+      "city": "Hongqi",
+      "amount": "$5.63",
+      "ratio": 5.6882,
+      "rag": 2
+    },
+    {
+      "id": 670,
+      "city": "Ciudad Ojeda",
+      "amount": "$4.50",
+      "ratio": 78.8336,
+      "rag": 2
+    },
+    {
+      "id": 671,
+      "city": "Jenesano",
+      "amount": "$5.42",
+      "ratio": 6.8214,
+      "rag": 3
+    },
+    {
+      "id": 672,
+      "city": "Zhoutian",
+      "amount": "$0.19",
+      "ratio": 92.9609,
+      "rag": 1
+    },
+    {
+      "id": 673,
+      "city": "Agassiz",
+      "amount": "$6.46",
+      "ratio": 85.4573,
+      "rag": 2
+    },
+    {
+      "id": 674,
+      "city": "Bria",
+      "amount": "$5.25",
+      "ratio": 75.9807,
+      "rag": 2
+    },
+    {
+      "id": 675,
+      "city": "Lianhua",
+      "amount": "$9.15",
+      "ratio": 6.4937,
+      "rag": 3
+    },
+    {
+      "id": 676,
+      "city": "Clifden",
+      "amount": "$2.86",
+      "ratio": 84.2998,
+      "rag": 1
+    },
+    {
+      "id": 677,
+      "city": "Hajeom",
+      "amount": "$4.60",
+      "ratio": 20.643,
+      "rag": 2
+    },
+    {
+      "id": 678,
+      "city": "Sala",
+      "amount": "$7.05",
+      "ratio": 75.7134,
+      "rag": 1
+    },
+    {
+      "id": 679,
+      "city": "Pandansari",
+      "amount": "$3.33",
+      "ratio": 5.6144,
+      "rag": 2
+    },
+    {
+      "id": 680,
+      "city": "Sere",
+      "amount": "$3.95",
+      "ratio": 7.7266,
+      "rag": 1
+    },
+    {
+      "id": 681,
+      "city": "Braunschweig",
+      "amount": "$2.22",
+      "ratio": 81.079,
+      "rag": 2
+    },
+    {
+      "id": 682,
+      "city": "Bela-Bela",
+      "amount": "$8.59",
+      "ratio": 62.7713,
+      "rag": 3
+    },
+    {
+      "id": 683,
+      "city": "Domampot",
+      "amount": "$2.19",
+      "ratio": 61.5395,
+      "rag": 2
+    },
+    {
+      "id": 684,
+      "city": "Marcabamba",
+      "amount": "$0.11",
+      "ratio": 19.0934,
+      "rag": 3
+    },
+    {
+      "id": 685,
+      "city": "Shahr-e Bābak",
+      "amount": "$7.24",
+      "ratio": 75.4191,
+      "rag": 3
+    },
+    {
+      "id": 686,
+      "city": "Doubravice nad Svitavou",
+      "amount": "$6.24",
+      "ratio": 26.8671,
+      "rag": 2
+    },
+    {
+      "id": 687,
+      "city": "Ludu",
+      "amount": "$0.47",
+      "ratio": 19.4341,
+      "rag": 3
+    },
+    {
+      "id": 688,
+      "city": "Toledo",
+      "amount": "$9.30",
+      "ratio": 59.9462,
+      "rag": 3
+    },
+    {
+      "id": 689,
+      "city": "Mibu",
+      "amount": "$3.97",
+      "ratio": 1.8577,
+      "rag": 3
+    },
+    {
+      "id": 690,
+      "city": "Beausejour",
+      "amount": "$9.71",
+      "ratio": 16.2082,
+      "rag": 2
+    },
+    {
+      "id": 691,
+      "city": "Gonayiv",
+      "amount": "$2.70",
+      "ratio": 8.6632,
+      "rag": 2
+    },
+    {
+      "id": 692,
+      "city": "Chlumčany",
+      "amount": "$6.93",
+      "ratio": 71.5394,
+      "rag": 3
+    },
+    {
+      "id": 693,
+      "city": "Gaigeturi",
+      "amount": "$7.90",
+      "ratio": 91.732,
+      "rag": 1
+    },
+    {
+      "id": 694,
+      "city": "Qiansuo",
+      "amount": "$7.21",
+      "ratio": 44.7493,
+      "rag": 3
+    },
+    {
+      "id": 695,
+      "city": "San Isidro",
+      "amount": "$5.37",
+      "ratio": 13.0552,
+      "rag": 2
+    },
+    {
+      "id": 696,
+      "city": "Barueri",
+      "amount": "$2.68",
+      "ratio": 85.1317,
+      "rag": 3
+    },
+    {
+      "id": 697,
+      "city": "Jieshou",
+      "amount": "$7.77",
+      "ratio": 30.4151,
+      "rag": 1
+    },
+    {
+      "id": 698,
+      "city": "Jiangfang",
+      "amount": "$8.86",
+      "ratio": 14.9259,
+      "rag": 3
+    },
+    {
+      "id": 699,
+      "city": "Shurugwi",
+      "amount": "$2.22",
+      "ratio": 26.4844,
+      "rag": 3
+    },
+    {
+      "id": 700,
+      "city": "Valdemarsvik",
+      "amount": "$8.82",
+      "ratio": 79.0356,
+      "rag": 1
+    },
+    {
+      "id": 701,
+      "city": "Neiguan",
+      "amount": "$4.32",
+      "ratio": 38.1544,
+      "rag": 2
+    },
+    {
+      "id": 702,
+      "city": "Cigadung",
+      "amount": "$5.83",
+      "ratio": 79.4507,
+      "rag": 2
+    },
+    {
+      "id": 703,
+      "city": "Seoam",
+      "amount": "$4.33",
+      "ratio": 26.029,
+      "rag": 1
+    },
+    {
+      "id": 704,
+      "city": "Debelets",
+      "amount": "$3.92",
+      "ratio": 46.1557,
+      "rag": 3
+    },
+    {
+      "id": 705,
+      "city": "Slavonice",
+      "amount": "$9.61",
+      "ratio": 1.5709,
+      "rag": 1
+    },
+    {
+      "id": 706,
+      "city": "Koror",
+      "amount": "$2.96",
+      "ratio": 24.6455,
+      "rag": 1
+    },
+    {
+      "id": 707,
+      "city": "Orange Farm",
+      "amount": "$1.44",
+      "ratio": 44.8236,
+      "rag": 2
+    },
+    {
+      "id": 708,
+      "city": "Emiliano Zapata",
+      "amount": "$4.98",
+      "ratio": 85.0252,
+      "rag": 1
+    },
+    {
+      "id": 709,
+      "city": "Pirapora do Bom Jesus",
+      "amount": "$2.62",
+      "ratio": 60.2091,
+      "rag": 3
+    },
+    {
+      "id": 710,
+      "city": "Kebonan",
+      "amount": "$1.98",
+      "ratio": 47.6261,
+      "rag": 2
+    },
+    {
+      "id": 711,
+      "city": "Jingjiao",
+      "amount": "$5.67",
+      "ratio": 34.2942,
+      "rag": 2
+    },
+    {
+      "id": 712,
+      "city": "Aime",
+      "amount": "$0.51",
+      "ratio": 78.0234,
+      "rag": 1
+    },
+    {
+      "id": 713,
+      "city": "Viengxay",
+      "amount": "$2.62",
+      "ratio": 50.1903,
+      "rag": 2
+    },
+    {
+      "id": 714,
+      "city": "Shatou",
+      "amount": "$2.27",
+      "ratio": 41.9716,
+      "rag": 1
+    },
+    {
+      "id": 715,
+      "city": "Zhixia",
+      "amount": "$0.08",
+      "ratio": 90.0355,
+      "rag": 1
+    },
+    {
+      "id": 716,
+      "city": "Jibiya",
+      "amount": "$7.62",
+      "ratio": 25.8713,
+      "rag": 1
+    },
+    {
+      "id": 717,
+      "city": "Ogōri-shimogō",
+      "amount": "$5.88",
+      "ratio": 3.1596,
+      "rag": 1
+    },
+    {
+      "id": 718,
+      "city": "Hepo",
+      "amount": "$9.73",
+      "ratio": 41.8428,
+      "rag": 3
+    },
+    {
+      "id": 719,
+      "city": "Riosucio",
+      "amount": "$7.34",
+      "ratio": 50.8015,
+      "rag": 2
+    },
+    {
+      "id": 720,
+      "city": "Cotovia",
+      "amount": "$6.13",
+      "ratio": 12.1623,
+      "rag": 2
+    },
+    {
+      "id": 721,
+      "city": "Kostarea Satu",
+      "amount": "$9.66",
+      "ratio": 66.593,
+      "rag": 3
+    },
+    {
+      "id": 722,
+      "city": "Young America",
+      "amount": "$7.49",
+      "ratio": 95.8519,
+      "rag": 1
+    },
+    {
+      "id": 723,
+      "city": "Buzdyak",
+      "amount": "$3.03",
+      "ratio": 11.1393,
+      "rag": 2
+    },
+    {
+      "id": 724,
+      "city": "Glan",
+      "amount": "$8.64",
+      "ratio": 97.585,
+      "rag": 3
+    },
+    {
+      "id": 725,
+      "city": "Ewarton",
+      "amount": "$2.05",
+      "ratio": 81.2081,
+      "rag": 1
+    },
+    {
+      "id": 726,
+      "city": "Suban",
+      "amount": "$2.46",
+      "ratio": 86.7698,
+      "rag": 3
+    },
+    {
+      "id": 727,
+      "city": "Vallentuna",
+      "amount": "$2.47",
+      "ratio": 4.9728,
+      "rag": 3
+    },
+    {
+      "id": 728,
+      "city": "San Vicente",
+      "amount": "$9.52",
+      "ratio": 98.3799,
+      "rag": 2
+    },
+    {
+      "id": 729,
+      "city": "Barranca de Upía",
+      "amount": "$0.05",
+      "ratio": 17.6966,
+      "rag": 2
+    },
+    {
+      "id": 730,
+      "city": "Phanna Nikhom",
+      "amount": "$2.89",
+      "ratio": 91.4682,
+      "rag": 2
+    },
+    {
+      "id": 731,
+      "city": "Suileng",
+      "amount": "$2.09",
+      "ratio": 89.9071,
+      "rag": 3
+    },
+    {
+      "id": 732,
+      "city": "Demuk",
+      "amount": "$5.45",
+      "ratio": 30.9497,
+      "rag": 1
+    },
+    {
+      "id": 733,
+      "city": "Wohyń",
+      "amount": "$6.68",
+      "ratio": 66.9127,
+      "rag": 2
+    },
+    {
+      "id": 734,
+      "city": "Beizhakou",
+      "amount": "$1.12",
+      "ratio": 40.2992,
+      "rag": 2
+    },
+    {
+      "id": 735,
+      "city": "Mineralni Bani",
+      "amount": "$6.35",
+      "ratio": 64.2579,
+      "rag": 1
+    },
+    {
+      "id": 736,
+      "city": "Fada",
+      "amount": "$1.90",
+      "ratio": 67.4887,
+      "rag": 3
+    },
+    {
+      "id": 737,
+      "city": "Santa Marta",
+      "amount": "$5.91",
+      "ratio": 82.0878,
+      "rag": 3
+    },
+    {
+      "id": 738,
+      "city": "Hayange",
+      "amount": "$2.71",
+      "ratio": 7.9565,
+      "rag": 2
+    },
+    {
+      "id": 739,
+      "city": "Ipoh",
+      "amount": "$1.46",
+      "ratio": 20.8798,
+      "rag": 2
+    },
+    {
+      "id": 740,
+      "city": "Arys",
+      "amount": "$3.22",
+      "ratio": 34.0905,
+      "rag": 2
+    },
+    {
+      "id": 741,
+      "city": "Zheng’an",
+      "amount": "$7.10",
+      "ratio": 6.0636,
+      "rag": 1
+    },
+    {
+      "id": 742,
+      "city": "Yanaoca",
+      "amount": "$5.28",
+      "ratio": 56.8988,
+      "rag": 2
+    },
+    {
+      "id": 743,
+      "city": "Umeå",
+      "amount": "$1.32",
+      "ratio": 69.7633,
+      "rag": 2
+    },
+    {
+      "id": 744,
+      "city": "At Tāj",
+      "amount": "$0.79",
+      "ratio": 42.4462,
+      "rag": 1
+    },
+    {
+      "id": 745,
+      "city": "Avlónas",
+      "amount": "$7.40",
+      "ratio": 84.9355,
+      "rag": 1
+    },
+    {
+      "id": 746,
+      "city": "Nanxi",
+      "amount": "$8.53",
+      "ratio": 60.285,
+      "rag": 3
+    },
+    {
+      "id": 747,
+      "city": "Haapsalu",
+      "amount": "$9.94",
+      "ratio": 5.5408,
+      "rag": 2
+    },
+    {
+      "id": 748,
+      "city": "Tanguá",
+      "amount": "$5.20",
+      "ratio": 97.5381,
+      "rag": 1
+    },
+    {
+      "id": 749,
+      "city": "Fanrong",
+      "amount": "$8.81",
+      "ratio": 2.666,
+      "rag": 3
+    },
+    {
+      "id": 750,
+      "city": "Kobylanka",
+      "amount": "$2.62",
+      "ratio": 21.5792,
+      "rag": 1
+    },
+    {
+      "id": 751,
+      "city": "Jugezhuang",
+      "amount": "$9.81",
+      "ratio": 95.8676,
+      "rag": 1
+    },
+    {
+      "id": 752,
+      "city": "Fengyang",
+      "amount": "$2.59",
+      "ratio": 57.518,
+      "rag": 1
+    },
+    {
+      "id": 753,
+      "city": "Cocachacra",
+      "amount": "$3.19",
+      "ratio": 16.0583,
+      "rag": 3
+    },
+    {
+      "id": 754,
+      "city": "Czernice Borowe",
+      "amount": "$1.03",
+      "ratio": 35.9477,
+      "rag": 1
+    },
+    {
+      "id": 755,
+      "city": "Xiaojiangba",
+      "amount": "$3.23",
+      "ratio": 87.73,
+      "rag": 1
+    },
+    {
+      "id": 756,
+      "city": "Khanāşir",
+      "amount": "$8.71",
+      "ratio": 74.5297,
+      "rag": 1
+    },
+    {
+      "id": 757,
+      "city": "Jimsar",
+      "amount": "$4.35",
+      "ratio": 5.0055,
+      "rag": 3
+    },
+    {
+      "id": 758,
+      "city": "Oeiras",
+      "amount": "$7.71",
+      "ratio": 14.1471,
+      "rag": 2
+    },
+    {
+      "id": 759,
+      "city": "Minle",
+      "amount": "$7.62",
+      "ratio": 67.7839,
+      "rag": 1
+    },
+    {
+      "id": 760,
+      "city": "Kafr al Labad",
+      "amount": "$7.77",
+      "ratio": 11.9406,
+      "rag": 1
+    },
+    {
+      "id": 761,
+      "city": "Miguel Pereira",
+      "amount": "$8.44",
+      "ratio": 22.0652,
+      "rag": 3
+    },
+    {
+      "id": 762,
+      "city": "Slutsk",
+      "amount": "$4.28",
+      "ratio": 93.8694,
+      "rag": 3
+    },
+    {
+      "id": 763,
+      "city": "Yartsevo",
+      "amount": "$4.52",
+      "ratio": 96.1789,
+      "rag": 2
+    },
+    {
+      "id": 764,
+      "city": "Lagos da Beira",
+      "amount": "$9.15",
+      "ratio": 34.2918,
+      "rag": 1
+    },
+    {
+      "id": 765,
+      "city": "Pangantocan",
+      "amount": "$9.32",
+      "ratio": 4.4629,
+      "rag": 3
+    },
+    {
+      "id": 766,
+      "city": "Sangalhos",
+      "amount": "$9.08",
+      "ratio": 96.3307,
+      "rag": 3
+    },
+    {
+      "id": 767,
+      "city": "Buffalo",
+      "amount": "$7.47",
+      "ratio": 78.8238,
+      "rag": 3
+    },
+    {
+      "id": 768,
+      "city": "Kushelevka",
+      "amount": "$9.00",
+      "ratio": 43.9864,
+      "rag": 3
+    },
+    {
+      "id": 769,
+      "city": "Dmytrivka",
+      "amount": "$6.34",
+      "ratio": 63.8605,
+      "rag": 3
+    },
+    {
+      "id": 770,
+      "city": "Mîndreşti",
+      "amount": "$8.52",
+      "ratio": 39.7046,
+      "rag": 3
+    },
+    {
+      "id": 771,
+      "city": "Pasar Kidul",
+      "amount": "$7.24",
+      "ratio": 82.1915,
+      "rag": 3
+    },
+    {
+      "id": 772,
+      "city": "Carregueira",
+      "amount": "$3.00",
+      "ratio": 69.7801,
+      "rag": 1
+    },
+    {
+      "id": 773,
+      "city": "‘Uqayribāt",
+      "amount": "$1.01",
+      "ratio": 98.892,
+      "rag": 3
+    },
+    {
+      "id": 774,
+      "city": "Penápolis",
+      "amount": "$6.99",
+      "ratio": 73.714,
+      "rag": 1
+    },
+    {
+      "id": 775,
+      "city": "Mache",
+      "amount": "$3.58",
+      "ratio": 47.2257,
+      "rag": 1
+    },
+    {
+      "id": 776,
+      "city": "Lipie",
+      "amount": "$0.99",
+      "ratio": 21.2814,
+      "rag": 1
+    },
+    {
+      "id": 777,
+      "city": "Banjar Kubu",
+      "amount": "$2.03",
+      "ratio": 87.2965,
+      "rag": 3
+    },
+    {
+      "id": 778,
+      "city": "Huainan",
+      "amount": "$5.01",
+      "ratio": 8.609,
+      "rag": 2
+    },
+    {
+      "id": 779,
+      "city": "Bhunya",
+      "amount": "$7.52",
+      "ratio": 82.9849,
+      "rag": 2
+    },
+    {
+      "id": 780,
+      "city": "Khe Tre",
+      "amount": "$3.00",
+      "ratio": 8.5634,
+      "rag": 2
+    },
+    {
+      "id": 781,
+      "city": "Maloco",
+      "amount": "$1.45",
+      "ratio": 84.2106,
+      "rag": 3
+    },
+    {
+      "id": 782,
+      "city": "Bakung",
+      "amount": "$4.36",
+      "ratio": 4.4258,
+      "rag": 1
+    },
+    {
+      "id": 783,
+      "city": "Fandriana",
+      "amount": "$7.81",
+      "ratio": 13.7629,
+      "rag": 2
+    },
+    {
+      "id": 784,
+      "city": "Kolonia Town",
+      "amount": "$0.99",
+      "ratio": 9.2905,
+      "rag": 1
+    },
+    {
+      "id": 785,
+      "city": "Huancapallac",
+      "amount": "$7.31",
+      "ratio": 5.1404,
+      "rag": 1
+    },
+    {
+      "id": 786,
+      "city": "Västerås",
+      "amount": "$6.01",
+      "ratio": 52.8153,
+      "rag": 3
+    },
+    {
+      "id": 787,
+      "city": "Bordeaux",
+      "amount": "$9.10",
+      "ratio": 69.9943,
+      "rag": 3
+    },
+    {
+      "id": 788,
+      "city": "Wilmington",
+      "amount": "$1.74",
+      "ratio": 19.0466,
+      "rag": 1
+    },
+    {
+      "id": 789,
+      "city": "Baki",
+      "amount": "$1.25",
+      "ratio": 70.4965,
+      "rag": 1
+    },
+    {
+      "id": 790,
+      "city": "Mapalad",
+      "amount": "$6.98",
+      "ratio": 79.6005,
+      "rag": 2
+    },
+    {
+      "id": 791,
+      "city": "Santa Clara",
+      "amount": "$4.31",
+      "ratio": 30.4949,
+      "rag": 3
+    },
+    {
+      "id": 792,
+      "city": "Bacelo",
+      "amount": "$2.24",
+      "ratio": 64.905,
+      "rag": 2
+    },
+    {
+      "id": 793,
+      "city": "Karata",
+      "amount": "$9.88",
+      "ratio": 56.1974,
+      "rag": 3
+    },
+    {
+      "id": 794,
+      "city": "Nemuro",
+      "amount": "$4.74",
+      "ratio": 8.6264,
+      "rag": 1
+    },
+    {
+      "id": 795,
+      "city": "Seaforth",
+      "amount": "$6.53",
+      "ratio": 18.5493,
+      "rag": 3
+    },
+    {
+      "id": 796,
+      "city": "La Habana Vieja",
+      "amount": "$7.39",
+      "ratio": 32.1381,
+      "rag": 1
+    },
+    {
+      "id": 797,
+      "city": "Liangnong",
+      "amount": "$4.58",
+      "ratio": 68.7342,
+      "rag": 2
+    },
+    {
+      "id": 798,
+      "city": "Zoumaping",
+      "amount": "$6.52",
+      "ratio": 19.0439,
+      "rag": 1
+    },
+    {
+      "id": 799,
+      "city": "Cungking",
+      "amount": "$0.37",
+      "ratio": 11.7661,
+      "rag": 1
+    },
+    {
+      "id": 800,
+      "city": "Mariinsk",
+      "amount": "$9.97",
+      "ratio": 20.0036,
+      "rag": 2
+    },
+    {
+      "id": 801,
+      "city": "Laborde",
+      "amount": "$8.27",
+      "ratio": 45.244,
+      "rag": 2
+    },
+    {
+      "id": 802,
+      "city": "Volksrust",
+      "amount": "$4.40",
+      "ratio": 31.457,
+      "rag": 3
+    },
+    {
+      "id": 803,
+      "city": "Sakété",
+      "amount": "$3.01",
+      "ratio": 71.1248,
+      "rag": 1
+    },
+    {
+      "id": 804,
+      "city": "Capissayan Sur",
+      "amount": "$0.22",
+      "ratio": 39.167,
+      "rag": 1
+    },
+    {
+      "id": 805,
+      "city": "Huangjindong",
+      "amount": "$6.28",
+      "ratio": 82.2806,
+      "rag": 2
+    },
+    {
+      "id": 806,
+      "city": "Sydney South",
+      "amount": "$7.66",
+      "ratio": 37.382,
+      "rag": 2
+    },
+    {
+      "id": 807,
+      "city": "Juiz de Fora",
+      "amount": "$6.78",
+      "ratio": 96.0039,
+      "rag": 3
+    },
+    {
+      "id": 808,
+      "city": "Canta",
+      "amount": "$5.01",
+      "ratio": 33.4526,
+      "rag": 2
+    },
+    {
+      "id": 809,
+      "city": "Lluka e Eperme",
+      "amount": "$4.76",
+      "ratio": 88.3468,
+      "rag": 1
+    },
+    {
+      "id": 810,
+      "city": "Kedatuan",
+      "amount": "$2.95",
+      "ratio": 71.113,
+      "rag": 1
+    },
+    {
+      "id": 811,
+      "city": "Veliko Tŭrnovo",
+      "amount": "$0.78",
+      "ratio": 1.5568,
+      "rag": 3
+    },
+    {
+      "id": 812,
+      "city": "Alíartos",
+      "amount": "$0.59",
+      "ratio": 13.1203,
+      "rag": 1
+    },
+    {
+      "id": 813,
+      "city": "Soledad",
+      "amount": "$5.35",
+      "ratio": 15.9159,
+      "rag": 3
+    },
+    {
+      "id": 814,
+      "city": "Uppsala",
+      "amount": "$0.41",
+      "ratio": 13.345,
+      "rag": 2
+    },
+    {
+      "id": 815,
+      "city": "Oni",
+      "amount": "$6.58",
+      "ratio": 48.7927,
+      "rag": 1
+    },
+    {
+      "id": 816,
+      "city": "Ivyanyets",
+      "amount": "$0.33",
+      "ratio": 19.919,
+      "rag": 3
+    },
+    {
+      "id": 817,
+      "city": "Seminole",
+      "amount": "$2.11",
+      "ratio": 8.5737,
+      "rag": 3
+    },
+    {
+      "id": 818,
+      "city": "Olszówka",
+      "amount": "$4.60",
+      "ratio": 49.7738,
+      "rag": 2
+    },
+    {
+      "id": 819,
+      "city": "Cincinnati",
+      "amount": "$1.68",
+      "ratio": 64.4509,
+      "rag": 2
+    },
+    {
+      "id": 820,
+      "city": "Kedungtuban",
+      "amount": "$8.91",
+      "ratio": 14.799,
+      "rag": 2
+    },
+    {
+      "id": 821,
+      "city": "Barreiros",
+      "amount": "$5.81",
+      "ratio": 65.6208,
+      "rag": 3
+    },
+    {
+      "id": 822,
+      "city": "Sāh",
+      "amount": "$1.17",
+      "ratio": 88.5817,
+      "rag": 2
+    },
+    {
+      "id": 823,
+      "city": "Dąbrowice",
+      "amount": "$6.39",
+      "ratio": 74.899,
+      "rag": 3
+    },
+    {
+      "id": 824,
+      "city": "Antalaha",
+      "amount": "$1.23",
+      "ratio": 74.7353,
+      "rag": 2
+    },
+    {
+      "id": 825,
+      "city": "Ngembel",
+      "amount": "$10.00",
+      "ratio": 21.6022,
+      "rag": 1
+    },
+    {
+      "id": 826,
+      "city": "Oslo",
+      "amount": "$0.47",
+      "ratio": 49.6026,
+      "rag": 2
+    },
+    {
+      "id": 827,
+      "city": "Getahovit",
+      "amount": "$9.66",
+      "ratio": 39.7603,
+      "rag": 2
+    },
+    {
+      "id": 828,
+      "city": "Varoška Rijeka",
+      "amount": "$3.53",
+      "ratio": 79.9994,
+      "rag": 3
+    },
+    {
+      "id": 829,
+      "city": "Argavand",
+      "amount": "$5.64",
+      "ratio": 90.5957,
+      "rag": 2
+    },
+    {
+      "id": 830,
+      "city": "Cacocum",
+      "amount": "$0.69",
+      "ratio": 92.2338,
+      "rag": 3
+    },
+    {
+      "id": 831,
+      "city": "Peuara",
+      "amount": "$9.18",
+      "ratio": 41.2402,
+      "rag": 1
+    },
+    {
+      "id": 832,
+      "city": "Wuyao",
+      "amount": "$0.13",
+      "ratio": 69.4487,
+      "rag": 2
+    },
+    {
+      "id": 833,
+      "city": "Hedong",
+      "amount": "$7.80",
+      "ratio": 24.9781,
+      "rag": 2
+    },
+    {
+      "id": 834,
+      "city": "Kiviõli",
+      "amount": "$2.32",
+      "ratio": 50.0209,
+      "rag": 2
+    },
+    {
+      "id": 835,
+      "city": "Tongqing",
+      "amount": "$6.94",
+      "ratio": 39.7162,
+      "rag": 3
+    },
+    {
+      "id": 836,
+      "city": "Hufang",
+      "amount": "$7.28",
+      "ratio": 55.8144,
+      "rag": 1
+    },
+    {
+      "id": 837,
+      "city": "Rosario del Ingre",
+      "amount": "$0.32",
+      "ratio": 48.2784,
+      "rag": 1
+    },
+    {
+      "id": 838,
+      "city": "Kaduranca",
+      "amount": "$9.54",
+      "ratio": 21.1935,
+      "rag": 3
+    },
+    {
+      "id": 839,
+      "city": "Figueiredo",
+      "amount": "$5.77",
+      "ratio": 94.5228,
+      "rag": 1
+    },
+    {
+      "id": 840,
+      "city": "Vũ Quang",
+      "amount": "$4.59",
+      "ratio": 25.1765,
+      "rag": 1
+    },
+    {
+      "id": 841,
+      "city": "Rathdrum",
+      "amount": "$5.58",
+      "ratio": 88.0294,
+      "rag": 2
+    },
+    {
+      "id": 842,
+      "city": "Santa Fe",
+      "amount": "$4.58",
+      "ratio": 19.965,
+      "rag": 2
+    },
+    {
+      "id": 843,
+      "city": "Sinchao",
+      "amount": "$4.57",
+      "ratio": 54.6002,
+      "rag": 3
+    },
+    {
+      "id": 844,
+      "city": "Igcocolo",
+      "amount": "$7.79",
+      "ratio": 96.7343,
+      "rag": 1
+    },
+    {
+      "id": 845,
+      "city": "Soloneshnoye",
+      "amount": "$9.52",
+      "ratio": 90.8933,
+      "rag": 1
+    },
+    {
+      "id": 846,
+      "city": "Abū Sunbul",
+      "amount": "$1.55",
+      "ratio": 37.0198,
+      "rag": 2
+    },
+    {
+      "id": 847,
+      "city": "Nizhniye Achaluki",
+      "amount": "$9.24",
+      "ratio": 56.2248,
+      "rag": 1
+    },
+    {
+      "id": 848,
+      "city": "Marcq-en-Barœul",
+      "amount": "$2.84",
+      "ratio": 84.5524,
+      "rag": 1
+    },
+    {
+      "id": 849,
+      "city": "Tuamese",
+      "amount": "$7.43",
+      "ratio": 31.6668,
+      "rag": 1
+    },
+    {
+      "id": 850,
+      "city": "San Pedro Zacapa",
+      "amount": "$3.72",
+      "ratio": 84.7957,
+      "rag": 2
+    },
+    {
+      "id": 851,
+      "city": "Bull Savanna",
+      "amount": "$3.02",
+      "ratio": 89.3052,
+      "rag": 3
+    },
+    {
+      "id": 852,
+      "city": "Rego de Água",
+      "amount": "$1.94",
+      "ratio": 18.561,
+      "rag": 3
+    },
+    {
+      "id": 853,
+      "city": "Sukahening",
+      "amount": "$2.47",
+      "ratio": 30.1872,
+      "rag": 1
+    },
+    {
+      "id": 854,
+      "city": "Pentecoste",
+      "amount": "$1.99",
+      "ratio": 95.3386,
+      "rag": 3
+    },
+    {
+      "id": 855,
+      "city": "Itagibá",
+      "amount": "$9.47",
+      "ratio": 47.9046,
+      "rag": 1
+    },
+    {
+      "id": 856,
+      "city": "Lourdes",
+      "amount": "$4.07",
+      "ratio": 26.6235,
+      "rag": 3
+    },
+    {
+      "id": 857,
+      "city": "Mhango",
+      "amount": "$4.09",
+      "ratio": 99.4697,
+      "rag": 1
+    },
+    {
+      "id": 858,
+      "city": "Da’an",
+      "amount": "$7.21",
+      "ratio": 30.7345,
+      "rag": 2
+    },
+    {
+      "id": 859,
+      "city": "Şafwá",
+      "amount": "$5.57",
+      "ratio": 88.7428,
+      "rag": 2
+    },
+    {
+      "id": 860,
+      "city": "Terong",
+      "amount": "$5.84",
+      "ratio": 58.0711,
+      "rag": 3
+    },
+    {
+      "id": 861,
+      "city": "Kuala Lumpur",
+      "amount": "$9.09",
+      "ratio": 50.2963,
+      "rag": 1
+    },
+    {
+      "id": 862,
+      "city": "Jinshi",
+      "amount": "$7.97",
+      "ratio": 97.4312,
+      "rag": 3
+    },
+    {
+      "id": 863,
+      "city": "Mashtūl as Sūq",
+      "amount": "$0.31",
+      "ratio": 71.1733,
+      "rag": 3
+    },
+    {
+      "id": 864,
+      "city": "Cernik",
+      "amount": "$0.91",
+      "ratio": 22.2593,
+      "rag": 3
+    },
+    {
+      "id": 865,
+      "city": "Jambuir Timur",
+      "amount": "$1.51",
+      "ratio": 22.6881,
+      "rag": 2
+    },
+    {
+      "id": 866,
+      "city": "Bachuan",
+      "amount": "$7.59",
+      "ratio": 31.0044,
+      "rag": 2
+    },
+    {
+      "id": 867,
+      "city": "Barreiras",
+      "amount": "$6.37",
+      "ratio": 8.9623,
+      "rag": 3
+    },
+    {
+      "id": 868,
+      "city": "Huacheng",
+      "amount": "$5.87",
+      "ratio": 85.6194,
+      "rag": 1
+    },
+    {
+      "id": 869,
+      "city": "Ростуша",
+      "amount": "$5.77",
+      "ratio": 45.2861,
+      "rag": 1
+    },
+    {
+      "id": 870,
+      "city": "Petaling Jaya",
+      "amount": "$6.89",
+      "ratio": 46.7939,
+      "rag": 2
+    },
+    {
+      "id": 871,
+      "city": "Taquara",
+      "amount": "$5.98",
+      "ratio": 6.5169,
+      "rag": 3
+    },
+    {
+      "id": 872,
+      "city": "Ubatuba",
+      "amount": "$7.86",
+      "ratio": 1.6215,
+      "rag": 3
+    },
+    {
+      "id": 873,
+      "city": "Vegreville",
+      "amount": "$1.34",
+      "ratio": 60.2308,
+      "rag": 1
+    },
+    {
+      "id": 874,
+      "city": "Tangchijie",
+      "amount": "$9.93",
+      "ratio": 95.9504,
+      "rag": 3
+    },
+    {
+      "id": 875,
+      "city": "Gapuk",
+      "amount": "$0.75",
+      "ratio": 70.9292,
+      "rag": 1
+    },
+    {
+      "id": 876,
+      "city": "Nový Bor",
+      "amount": "$8.77",
+      "ratio": 29.9621,
+      "rag": 3
+    },
+    {
+      "id": 877,
+      "city": "Yangliu",
+      "amount": "$2.57",
+      "ratio": 95.6055,
+      "rag": 2
+    },
+    {
+      "id": 878,
+      "city": "Údlice",
+      "amount": "$2.74",
+      "ratio": 2.8218,
+      "rag": 2
+    },
+    {
+      "id": 879,
+      "city": "Tame",
+      "amount": "$9.29",
+      "ratio": 64.7176,
+      "rag": 1
+    },
+    {
+      "id": 880,
+      "city": "Taldan",
+      "amount": "$0.62",
+      "ratio": 34.5452,
+      "rag": 2
+    },
+    {
+      "id": 881,
+      "city": "Gabrovo",
+      "amount": "$1.41",
+      "ratio": 75.6152,
+      "rag": 3
+    },
+    {
+      "id": 882,
+      "city": "Amherst",
+      "amount": "$1.98",
+      "ratio": 67.2556,
+      "rag": 2
+    },
+    {
+      "id": 883,
+      "city": "Cícero Dantas",
+      "amount": "$9.79",
+      "ratio": 61.0734,
+      "rag": 1
+    },
+    {
+      "id": 884,
+      "city": "Silveiros",
+      "amount": "$7.27",
+      "ratio": 87.3288,
+      "rag": 3
+    },
+    {
+      "id": 885,
+      "city": "Tver",
+      "amount": "$6.67",
+      "ratio": 67.4888,
+      "rag": 1
+    },
+    {
+      "id": 886,
+      "city": "Bafoussam",
+      "amount": "$9.85",
+      "ratio": 59.384,
+      "rag": 3
+    },
+    {
+      "id": 887,
+      "city": "Balas",
+      "amount": "$9.18",
+      "ratio": 93.9665,
+      "rag": 1
+    },
+    {
+      "id": 888,
+      "city": "Shushary",
+      "amount": "$3.80",
+      "ratio": 12.1729,
+      "rag": 3
+    },
+    {
+      "id": 889,
+      "city": "Kura",
+      "amount": "$8.88",
+      "ratio": 7.9676,
+      "rag": 2
+    },
+    {
+      "id": 890,
+      "city": "Sergio Osmeña Sr",
+      "amount": "$1.12",
+      "ratio": 73.0668,
+      "rag": 2
+    },
+    {
+      "id": 891,
+      "city": "Labuhanjambu",
+      "amount": "$7.38",
+      "ratio": 29.5192,
+      "rag": 2
+    },
+    {
+      "id": 892,
+      "city": "Bangassou",
+      "amount": "$4.20",
+      "ratio": 65.3883,
+      "rag": 3
+    },
+    {
+      "id": 893,
+      "city": "Makariv",
+      "amount": "$1.39",
+      "ratio": 9.8167,
+      "rag": 2
+    },
+    {
+      "id": 894,
+      "city": "Kalety",
+      "amount": "$7.25",
+      "ratio": 66.167,
+      "rag": 3
+    },
+    {
+      "id": 895,
+      "city": "Ustrzyki Dolne",
+      "amount": "$9.53",
+      "ratio": 21.8274,
+      "rag": 2
+    },
+    {
+      "id": 896,
+      "city": "Tawangsari",
+      "amount": "$6.67",
+      "ratio": 1.0239,
+      "rag": 3
+    },
+    {
+      "id": 897,
+      "city": "Corail",
+      "amount": "$5.83",
+      "ratio": 71.898,
+      "rag": 3
+    },
+    {
+      "id": 898,
+      "city": "Karangparwa",
+      "amount": "$8.73",
+      "ratio": 96.8796,
+      "rag": 2
+    },
+    {
+      "id": 899,
+      "city": "Ol’gino",
+      "amount": "$8.26",
+      "ratio": 38.9988,
+      "rag": 2
+    },
+    {
+      "id": 900,
+      "city": "Tambobamba",
+      "amount": "$2.43",
+      "ratio": 76.5117,
+      "rag": 1
+    },
+    {
+      "id": 901,
+      "city": "El Águila",
+      "amount": "$6.78",
+      "ratio": 61.8032,
+      "rag": 1
+    },
+    {
+      "id": 902,
+      "city": "Paris La Défense",
+      "amount": "$0.98",
+      "ratio": 47.7208,
+      "rag": 3
+    },
+    {
+      "id": 903,
+      "city": "Llocllapampa",
+      "amount": "$2.50",
+      "ratio": 5.8027,
+      "rag": 1
+    },
+    {
+      "id": 904,
+      "city": "Pueblo Nuevo",
+      "amount": "$9.22",
+      "ratio": 98.5573,
+      "rag": 3
+    },
+    {
+      "id": 905,
+      "city": "Tanahmerah",
+      "amount": "$0.14",
+      "ratio": 22.7434,
+      "rag": 3
+    },
+    {
+      "id": 906,
+      "city": "General Pinedo",
+      "amount": "$9.06",
+      "ratio": 70.785,
+      "rag": 3
+    },
+    {
+      "id": 907,
+      "city": "Mariestad",
+      "amount": "$5.72",
+      "ratio": 75.2608,
+      "rag": 1
+    },
+    {
+      "id": 908,
+      "city": "Přibyslav",
+      "amount": "$4.78",
+      "ratio": 77.6913,
+      "rag": 2
+    },
+    {
+      "id": 909,
+      "city": "Leshukonskoye",
+      "amount": "$3.72",
+      "ratio": 13.8983,
+      "rag": 1
+    },
+    {
+      "id": 910,
+      "city": "Ożarów",
+      "amount": "$6.98",
+      "ratio": 83.8403,
+      "rag": 1
+    },
+    {
+      "id": 911,
+      "city": "Kukushtan",
+      "amount": "$9.67",
+      "ratio": 17.9507,
+      "rag": 3
+    },
+    {
+      "id": 912,
+      "city": "Jingyang",
+      "amount": "$3.05",
+      "ratio": 41.3583,
+      "rag": 2
+    },
+    {
+      "id": 913,
+      "city": "Katsuura",
+      "amount": "$9.99",
+      "ratio": 95.1255,
+      "rag": 1
+    },
+    {
+      "id": 914,
+      "city": "Budënnovsk",
+      "amount": "$4.15",
+      "ratio": 22.5101,
+      "rag": 1
+    },
+    {
+      "id": 915,
+      "city": "Jdaidet el Matn",
+      "amount": "$8.18",
+      "ratio": 60.9932,
+      "rag": 2
+    },
+    {
+      "id": 916,
+      "city": "Izumi",
+      "amount": "$5.97",
+      "ratio": 61.0609,
+      "rag": 2
+    },
+    {
+      "id": 917,
+      "city": "Buynichy",
+      "amount": "$7.25",
+      "ratio": 46.357,
+      "rag": 2
+    },
+    {
+      "id": 918,
+      "city": "Azogues",
+      "amount": "$9.70",
+      "ratio": 57.0057,
+      "rag": 3
+    },
+    {
+      "id": 919,
+      "city": "Omaha",
+      "amount": "$5.65",
+      "ratio": 68.3368,
+      "rag": 2
+    },
+    {
+      "id": 920,
+      "city": "Padangan",
+      "amount": "$0.98",
+      "ratio": 10.2095,
+      "rag": 1
+    },
+    {
+      "id": 921,
+      "city": "Kvänum",
+      "amount": "$1.37",
+      "ratio": 31.6996,
+      "rag": 1
+    },
+    {
+      "id": 922,
+      "city": "Asyūţ",
+      "amount": "$5.27",
+      "ratio": 86.8974,
+      "rag": 1
+    },
+    {
+      "id": 923,
+      "city": "Parakanpanjang",
+      "amount": "$4.51",
+      "ratio": 90.7763,
+      "rag": 2
+    },
+    {
+      "id": 924,
+      "city": "Urshel’skiy",
+      "amount": "$3.97",
+      "ratio": 12.0084,
+      "rag": 2
+    },
+    {
+      "id": 925,
+      "city": "Pisan",
+      "amount": "$1.57",
+      "ratio": 73.7293,
+      "rag": 2
+    },
+    {
+      "id": 926,
+      "city": "Usu",
+      "amount": "$5.23",
+      "ratio": 67.0516,
+      "rag": 1
+    },
+    {
+      "id": 927,
+      "city": "Tanūmah",
+      "amount": "$9.95",
+      "ratio": 84.0882,
+      "rag": 1
+    },
+    {
+      "id": 928,
+      "city": "Luocheng",
+      "amount": "$2.57",
+      "ratio": 72.9412,
+      "rag": 2
+    },
+    {
+      "id": 929,
+      "city": "Honkajoki",
+      "amount": "$3.81",
+      "ratio": 12.0146,
+      "rag": 1
+    },
+    {
+      "id": 930,
+      "city": "Fuying",
+      "amount": "$3.68",
+      "ratio": 67.4034,
+      "rag": 1
+    },
+    {
+      "id": 931,
+      "city": "Uddevalla",
+      "amount": "$4.31",
+      "ratio": 35.5517,
+      "rag": 3
+    },
+    {
+      "id": 932,
+      "city": "Caxarias",
+      "amount": "$8.75",
+      "ratio": 16.0874,
+      "rag": 1
+    },
+    {
+      "id": 933,
+      "city": "Mucuri",
+      "amount": "$5.03",
+      "ratio": 65.1245,
+      "rag": 2
+    },
+    {
+      "id": 934,
+      "city": "Rincón",
+      "amount": "$7.42",
+      "ratio": 63.7358,
+      "rag": 1
+    },
+    {
+      "id": 935,
+      "city": "Tugdan",
+      "amount": "$1.36",
+      "ratio": 49.4099,
+      "rag": 2
+    },
+    {
+      "id": 936,
+      "city": "Camabatela",
+      "amount": "$0.81",
+      "ratio": 3.0768,
+      "rag": 2
+    },
+    {
+      "id": 937,
+      "city": "Nong Don",
+      "amount": "$1.64",
+      "ratio": 48.0571,
+      "rag": 2
+    },
+    {
+      "id": 938,
+      "city": "Zhenshan",
+      "amount": "$6.84",
+      "ratio": 67.1551,
+      "rag": 1
+    },
+    {
+      "id": 939,
+      "city": "Paderne",
+      "amount": "$2.52",
+      "ratio": 59.0286,
+      "rag": 2
+    },
+    {
+      "id": 940,
+      "city": "Gorbatov",
+      "amount": "$9.34",
+      "ratio": 73.6084,
+      "rag": 2
+    },
+    {
+      "id": 941,
+      "city": "Honghualiangzi",
+      "amount": "$9.89",
+      "ratio": 21.6579,
+      "rag": 3
+    },
+    {
+      "id": 942,
+      "city": "Örebro",
+      "amount": "$4.80",
+      "ratio": 70.904,
+      "rag": 2
+    },
+    {
+      "id": 943,
+      "city": "Krajan Kidul Rojopolo",
+      "amount": "$2.31",
+      "ratio": 39.7464,
+      "rag": 3
+    },
+    {
+      "id": 944,
+      "city": "Katagum",
+      "amount": "$5.33",
+      "ratio": 23.1055,
+      "rag": 1
+    },
+    {
+      "id": 945,
+      "city": "Zdovbytsya",
+      "amount": "$6.48",
+      "ratio": 55.5818,
+      "rag": 1
+    },
+    {
+      "id": 946,
+      "city": "Sosnovyy Bor",
+      "amount": "$6.19",
+      "ratio": 5.8789,
+      "rag": 3
+    },
+    {
+      "id": 947,
+      "city": "Santa Rosa",
+      "amount": "$5.39",
+      "ratio": 22.9389,
+      "rag": 1
+    },
+    {
+      "id": 948,
+      "city": "White Rock",
+      "amount": "$3.32",
+      "ratio": 41.6004,
+      "rag": 1
+    },
+    {
+      "id": 949,
+      "city": "Port-Gentil",
+      "amount": "$9.49",
+      "ratio": 75.5812,
+      "rag": 1
+    },
+    {
+      "id": 950,
+      "city": "Tovarkovskiy",
+      "amount": "$9.74",
+      "ratio": 66.0316,
+      "rag": 2
+    },
+    {
+      "id": 951,
+      "city": "Kaiapoi",
+      "amount": "$6.29",
+      "ratio": 31.4081,
+      "rag": 3
+    },
+    {
+      "id": 952,
+      "city": "Uryupinsk",
+      "amount": "$8.55",
+      "ratio": 27.7129,
+      "rag": 3
+    },
+    {
+      "id": 953,
+      "city": "Ilebo",
+      "amount": "$0.93",
+      "ratio": 69.5282,
+      "rag": 2
+    },
+    {
+      "id": 954,
+      "city": "Palaiomonástiron",
+      "amount": "$1.70",
+      "ratio": 93.9153,
+      "rag": 2
+    },
+    {
+      "id": 955,
+      "city": "Futian",
+      "amount": "$9.20",
+      "ratio": 95.3919,
+      "rag": 2
+    },
+    {
+      "id": 956,
+      "city": "Pinega",
+      "amount": "$5.77",
+      "ratio": 43.9706,
+      "rag": 3
+    },
+    {
+      "id": 957,
+      "city": "Paris 12",
+      "amount": "$7.62",
+      "ratio": 71.6708,
+      "rag": 3
+    },
+    {
+      "id": 958,
+      "city": "Phoenix",
+      "amount": "$1.38",
+      "ratio": 66.6147,
+      "rag": 1
+    },
+    {
+      "id": 959,
+      "city": "Tân An",
+      "amount": "$6.69",
+      "ratio": 74.544,
+      "rag": 2
+    },
+    {
+      "id": 960,
+      "city": "Kunvald",
+      "amount": "$4.27",
+      "ratio": 6.0799,
+      "rag": 2
+    },
+    {
+      "id": 961,
+      "city": "Hanghuadian",
+      "amount": "$9.00",
+      "ratio": 94.3352,
+      "rag": 3
+    },
+    {
+      "id": 962,
+      "city": "Río Ceballos",
+      "amount": "$0.27",
+      "ratio": 89.5951,
+      "rag": 2
+    },
+    {
+      "id": 963,
+      "city": "Aliwal North",
+      "amount": "$7.97",
+      "ratio": 28.7115,
+      "rag": 2
+    },
+    {
+      "id": 964,
+      "city": "Veinticinco de Mayo",
+      "amount": "$3.83",
+      "ratio": 24.2614,
+      "rag": 2
+    },
+    {
+      "id": 965,
+      "city": "Mali Iđoš",
+      "amount": "$9.11",
+      "ratio": 5.7296,
+      "rag": 3
+    },
+    {
+      "id": 966,
+      "city": "Jiamaying",
+      "amount": "$2.00",
+      "ratio": 24.0701,
+      "rag": 1
+    },
+    {
+      "id": 967,
+      "city": "Xinjie",
+      "amount": "$0.99",
+      "ratio": 49.9196,
+      "rag": 3
+    },
+    {
+      "id": 968,
+      "city": "Lingbei",
+      "amount": "$7.28",
+      "ratio": 56.7025,
+      "rag": 3
+    },
+    {
+      "id": 969,
+      "city": "Alofi",
+      "amount": "$8.36",
+      "ratio": 3.4308,
+      "rag": 2
+    },
+    {
+      "id": 970,
+      "city": "Dzhebariki-Khaya",
+      "amount": "$0.79",
+      "ratio": 7.1632,
+      "rag": 3
+    },
+    {
+      "id": 971,
+      "city": "Goubangzi",
+      "amount": "$6.81",
+      "ratio": 45.4832,
+      "rag": 3
+    },
+    {
+      "id": 972,
+      "city": "Linshi",
+      "amount": "$0.00",
+      "ratio": 60.4159,
+      "rag": 2
+    },
+    {
+      "id": 973,
+      "city": "Przybyszówka",
+      "amount": "$3.89",
+      "ratio": 56.645,
+      "rag": 1
+    },
+    {
+      "id": 974,
+      "city": "Lipsko",
+      "amount": "$5.79",
+      "ratio": 14.3995,
+      "rag": 1
+    },
+    {
+      "id": 975,
+      "city": "Karangsumber",
+      "amount": "$0.84",
+      "ratio": 52.6889,
+      "rag": 1
+    },
+    {
+      "id": 976,
+      "city": "Buenavista",
+      "amount": "$9.32",
+      "ratio": 19.6071,
+      "rag": 2
+    },
+    {
+      "id": 977,
+      "city": "Sotouboua",
+      "amount": "$7.32",
+      "ratio": 63.3341,
+      "rag": 3
+    },
+    {
+      "id": 978,
+      "city": "Coronda",
+      "amount": "$1.99",
+      "ratio": 26.3567,
+      "rag": 3
+    },
+    {
+      "id": 979,
+      "city": "Santo Domingo",
+      "amount": "$2.29",
+      "ratio": 64.3972,
+      "rag": 3
+    },
+    {
+      "id": 980,
+      "city": "Göteborg",
+      "amount": "$4.36",
+      "ratio": 84.7944,
+      "rag": 2
+    },
+    {
+      "id": 981,
+      "city": "Caper",
+      "amount": "$7.36",
+      "ratio": 56.0601,
+      "rag": 2
+    },
+    {
+      "id": 982,
+      "city": "Blerim",
+      "amount": "$9.05",
+      "ratio": 71.7566,
+      "rag": 3
+    },
+    {
+      "id": 983,
+      "city": "Kulun",
+      "amount": "$4.26",
+      "ratio": 61.6481,
+      "rag": 1
+    },
+    {
+      "id": 984,
+      "city": "Kuanda",
+      "amount": "$7.06",
+      "ratio": 52.0713,
+      "rag": 3
+    },
+    {
+      "id": 985,
+      "city": "Dodoma",
+      "amount": "$5.45",
+      "ratio": 36.4588,
+      "rag": 2
+    },
+    {
+      "id": 986,
+      "city": "Velventós",
+      "amount": "$1.87",
+      "ratio": 40.0896,
+      "rag": 1
+    },
+    {
+      "id": 987,
+      "city": "Doghs",
+      "amount": "$5.64",
+      "ratio": 50.4486,
+      "rag": 2
+    },
+    {
+      "id": 988,
+      "city": "Shinaihai",
+      "amount": "$8.39",
+      "ratio": 64.928,
+      "rag": 1
+    },
+    {
+      "id": 989,
+      "city": "Micoud",
+      "amount": "$2.07",
+      "ratio": 27.9331,
+      "rag": 2
+    },
+    {
+      "id": 990,
+      "city": "Foumbouni",
+      "amount": "$5.75",
+      "ratio": 96.7695,
+      "rag": 2
+    },
+    {
+      "id": 991,
+      "city": "Shuanghe",
+      "amount": "$8.91",
+      "ratio": 90.1103,
+      "rag": 2
+    },
+    {
+      "id": 992,
+      "city": "Xinjiang",
+      "amount": "$3.60",
+      "ratio": 69.2487,
+      "rag": 1
+    },
+    {
+      "id": 993,
+      "city": "Budapest",
+      "amount": "$6.03",
+      "ratio": 80.2892,
+      "rag": 1
+    },
+    {
+      "id": 994,
+      "city": "Kumalarang",
+      "amount": "$7.54",
+      "ratio": 85.014,
+      "rag": 2
+    },
+    {
+      "id": 995,
+      "city": "El Tejocote",
+      "amount": "$6.89",
+      "ratio": 89.3928,
+      "rag": 2
+    },
+    {
+      "id": 996,
+      "city": "Holguín",
+      "amount": "$5.24",
+      "ratio": 48.3219,
+      "rag": 3
+    },
+    {
+      "id": 997,
+      "city": "Bích Động",
+      "amount": "$6.79",
+      "ratio": 31.3959,
+      "rag": 1
+    },
+    {
+      "id": 998,
+      "city": "Libušín",
+      "amount": "$2.96",
+      "ratio": 60.872,
+      "rag": 2
+    },
+    {
+      "id": 999,
+      "city": "Carman",
+      "amount": "$2.63",
+      "ratio": 54.0065,
+      "rag": 1
+    },
+    {
+      "id": 1000,
+      "city": "Hengling",
+      "amount": "$6.70",
+      "ratio": 46.0954,
+      "rag": 3
+    }
+  ]
+}
