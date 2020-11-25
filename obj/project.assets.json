@@ -5383,11 +5383,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Achilles\\BlazorGrid\\BlazorGrid\\BlazorGrid.csproj",
+      "projectUniqueName": "C:\\Projects\\GitHubProjects\\BlazorGrid\\BlazorGrid\\BlazorGrid.csproj",
       "projectName": "BlazorGrid",
-      "projectPath": "C:\\Projects\\Achilles\\BlazorGrid\\BlazorGrid\\BlazorGrid.csproj",
+      "projectPath": "C:\\Projects\\GitHubProjects\\BlazorGrid\\BlazorGrid\\BlazorGrid.csproj",
       "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Achilles\\BlazorGrid\\BlazorGrid\\obj\\",
+      "outputPath": "C:\\Projects\\GitHubProjects\\BlazorGrid\\BlazorGrid\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",

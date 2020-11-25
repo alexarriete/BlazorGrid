@@ -85,7 +85,9 @@ namespace BlazorGrid.GridClasses
                  PropertyInfo.PropertyType.Name.ToLower();
 
                 result = result == "string" ? "text" : result;
-                PropertyType searchType = (PropertyType)Enum.Parse(typeof(PropertyType), result);
+                object resultType = TypeCode.DBNull;
+                bool knownType = Enum.TryParse(typeof(TypeCode), result, false, out resultType);
+                PropertyType searchType = knownType ? (PropertyType)Enum.Parse(typeof(PropertyType), result): PropertyType.text;
                 return searchType;
             }
             return PropertyType.noType;
@@ -93,24 +95,29 @@ namespace BlazorGrid.GridClasses
 
         private bool IsNumericType(PropertyInfo prop)
         {
-            TypeCode tt = (TypeCode)Enum.Parse(typeof(TypeCode), prop.PropertyType.Name);
-            switch (tt)
+            object resultType = TypeCode.DBNull;
+            bool knownType  = Enum.TryParse(typeof(TypeCode),  prop.PropertyType.Name, false, out resultType);
+            if (knownType)
             {
-                case TypeCode.Byte:
-                case TypeCode.SByte:
-                case TypeCode.UInt16:
-                case TypeCode.UInt32:
-                case TypeCode.UInt64:
-                case TypeCode.Int16:
-                case TypeCode.Int32:
-                case TypeCode.Int64:
-                case TypeCode.Decimal:
-                case TypeCode.Double:
-                case TypeCode.Single:
-                    return true;
-                default:
-                    return false;
+                switch (resultType)
+                {
+                    case TypeCode.Byte:
+                    case TypeCode.SByte:
+                    case TypeCode.UInt16:
+                    case TypeCode.UInt32:
+                    case TypeCode.UInt64:
+                    case TypeCode.Int16:
+                    case TypeCode.Int32:
+                    case TypeCode.Int64:
+                    case TypeCode.Decimal:
+                    case TypeCode.Double:
+                    case TypeCode.Single:
+                        return true;
+                    default:
+                        return false;
+                }
             }
+            return false;
         }
     }
 }

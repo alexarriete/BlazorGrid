@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aOMTdtgTDiD32VypqUG23vkPpoA2rZbvhyuW1fzhUtsKQnGU6EzndzN9Jekb5/Jx9o3l7bp2ZX3C/JfOov4V8w==",
+  "dgSpecHash": "AxkOHGjG/Z1aS126Mnjmk+RCww0b3RO6HYIHQZdic0J6BaR8F2CdiHcjl/t7tbns3pOsTrPktxiOjYgM/7E0Ag==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Achilles\\BlazorGrid\\BlazorGrid\\BlazorGrid.csproj",
+  "projectFilePath": "C:\\Projects\\GitHubProjects\\BlazorGrid\\BlazorGrid\\BlazorGrid.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleja\\.nuget\\packages\\closedxml\\0.95.3\\closedxml.0.95.3.nupkg.sha512",
     "C:\\Users\\aleja\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\4.3.1\\currietechnologies.razor.sweetalert2.4.3.1.nupkg.sha512",

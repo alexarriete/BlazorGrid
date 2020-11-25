@@ -32,7 +32,7 @@ namespace BlazorGrid.Shared
             if (GridConfig != null)
             {
                 GridSearch = new GridSearch();
-                await base.OnInitializedAsync();
+              //  await base.OnInitializedAsync();
                 await ConfigureProperties();
             }
         }
